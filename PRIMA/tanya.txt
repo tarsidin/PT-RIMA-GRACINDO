@@ -1,0 +1,4 @@
+text box tipe tanggal - ngaco
+form beli - browse pesanan data kosong
+form master kurs - mana??
+menu error dipicture icon - the spesified file or path was not found

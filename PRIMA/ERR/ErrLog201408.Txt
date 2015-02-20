@@ -1,0 +1,17 @@
+
+29/08/2014 08:27:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kode'.
+29/08/2014 08:32:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kode'.
+29/08/2014 08:33:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kode'.
+29/08/2014 08:35:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kode'.
+29/08/2014 08:37:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kode'.
+29/08/2014 08:40:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kode'.
+29/08/2014 08:42:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kode'.
+29/08/2014 08:43:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kode'.
+29/08/2014 08:47:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kode'.
+29/08/2014 11:11:16 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ket'.
+29/08/2014 11:11:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near ','.
+29/08/2014 11:11:52 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ket'.
+29/08/2014 11:12:37 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Ket'.
+29/08/2014 11:21:59 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'alamat_kirim'.
+08/29/2014 14:41:12 - User ID : --- - Error No.   :         12,Error Message : Variable 'ATT_CAPTION' is not found.
+29/08/2014 16:20:13 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'Mesin_id'.

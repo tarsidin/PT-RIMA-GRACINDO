@@ -1,0 +1,629 @@
+
+04/07/2014 14:49:34 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+04/07/2014 14:51:27 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+04/07/2014 14:51:29 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+04/07/2014 14:51:35 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+04/07/2014 14:54:32 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+04/07/2014 14:54:39 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+07/07/2014 10:37:32 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/07/2014 10:38:05 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/07/2014 10:45:39 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/07/2014 11:30:50 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]The ORDER BY clause is invalid in
+views, inline functions, derived tables, subqueries, and
+common table expressions, unless TOP or FOR XML is also
+specified.
+07/07/2014 11:30:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Extruder'.
+07/07/2014 11:31:05 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]The ORDER BY clause is invalid in
+views, inline functions, derived tables, subqueries, and
+common table expressions, unless TOP or FOR XML is also
+specified.
+07/07/2014 11:31:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Extruder'.
+07/07/2014 11:31:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Extruder'.
+07/07/2014 11:33:33 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]The ORDER BY clause is invalid in
+views, inline functions, derived tables, subqueries, and
+common table expressions, unless TOP or FOR XML is also
+specified.
+07/07/2014 11:33:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Extruder'.
+07/07/2014 11:33:54 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]The ORDER BY clause is invalid in
+views, inline functions, derived tables, subqueries, and
+common table expressions, unless TOP or FOR XML is also
+specified.
+07/07/2014 11:34:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Extruder'.
+07/07/2014 11:35:23 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]The ORDER BY clause is invalid in
+views, inline functions, derived tables, subqueries, and
+common table expressions, unless TOP or FOR XML is also
+specified.
+07/07/2014 11:35:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Extruder'.
+07/07/2014 11:35:32 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]The ORDER BY clause is invalid in
+views, inline functions, derived tables, subqueries, and
+common table expressions, unless TOP or FOR XML is also
+specified.
+07/07/2014 11:35:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Extruder'.
+07/07/2014 11:37:08 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]The ORDER BY clause is invalid in
+views, inline functions, derived tables, subqueries, and
+common table expressions, unless TOP or FOR XML is also
+specified.
+07/07/2014 11:37:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Extruder'.
+07/07/2014 11:37:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Extruder'.
+07/07/2014 11:40:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Extruder'.
+07/07/2014 12:41:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+07/07/2014 12:41:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+07/07/2014 13:19:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "pdt.pesan_no" could not be bound.
+07/07/2014 13:19:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "pdt.pesan_no" could not be bound.
+07/07/2014 13:20:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The correlation name 's' is specified multiple times in a FROM clause.
+07/07/2014 13:20:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.spk_no" could not be bound.
+07/07/2014 13:21:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.spk_no" could not be bound.
+07/07/2014 13:22:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.spk_no" could not be bound.
+07/07/2014 13:43:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+07/07/2014 13:54:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ukuranNama'.
+07/07/2014 14:52:09 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ukuranNama'.
+07/07/2014 14:52:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ukuranNama'.
+07/07/2014 14:54:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ukuranNama'.
+07/07/2014 14:56:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ukuranNama'.
+07/07/2014 14:58:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ukuranNama'.
+07/07/2014 14:59:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ukuranNama'.
+07/07/2014 15:00:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ukuranNama'.
+07/07/2014 15:02:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_kode'.
+07/07/2014 15:03:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkJenis_kode'.
+07/07/2014 15:03:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_kode'.
+07/07/2014 15:04:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_kode'.
+07/07/2014 15:04:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_kode'.
+07/07/2014 15:17:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_kode'.
+07/07/2014 15:28:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_kode'.
+07/07/2014 15:30:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_kode'.
+07/07/2014 15:32:23 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+07/07/2014 15:33:12 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+07/07/2014 15:33:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.spk_no" could not be bound.
+07/07/2014 15:33:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.spk_no" could not be bound.
+07/07/2014 15:34:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+07/07/2014 15:34:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name ''.
+07/07/2014 15:35:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name ''.
+07/07/2014 15:35:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+07/07/2014 15:36:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+07/07/2014 16:03:57 - User ID : --- - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'spk_no'.
+07/07/2014 16:08:29 - User ID : --- - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'spk_no'.
+07/07/2014 16:27:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TerimaM_no'.
+07/07/2014 16:29:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'mutasi_no'.
+07/07/2014 16:32:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'mutasi_detail'.
+07/07/2014 16:35:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'spk_no'.
+07/07/2014 16:35:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'spk_no'.
+07/07/2014 16:36:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'spk_no'.
+07/07/2014 16:50:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.spk_no" could not be bound.
+07/07/2014 17:01:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.spk_no" could not be bound.
+08/07/2014 08:30:19 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_nama'.
+08/07/2014 08:30:23 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 08:30:24 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 08:30:24 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 08:32:30 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+08/07/2014 08:40:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_nama'.
+08/07/2014 08:40:58 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 08:40:59 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 08:41:00 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:01:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan'.
+08/07/2014 10:12:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan'.
+08/07/2014 10:13:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan'.
+08/07/2014 10:14:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan'.
+08/07/2014 10:22:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_nama'.
+08/07/2014 10:22:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_nama'.
+08/07/2014 10:22:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_nama'.
+08/07/2014 10:22:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkjenis_nama'.
+08/07/2014 10:23:16 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:23:16 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:23:36 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:23:37 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:29:24 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkkode'.
+08/07/2014 10:29:25 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produkkode'.
+08/07/2014 10:30:10 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:30:10 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:30:32 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:30:32 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:33:30 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produknama'.
+08/07/2014 10:33:31 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produknama'.
+08/07/2014 10:34:21 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:34:22 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:36:20 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuankode'.
+08/07/2014 10:36:21 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuankode'.
+08/07/2014 10:37:43 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabangnama'.
+08/07/2014 10:38:31 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_detail'. Cannot insert duplicate key in object
+'dbo.SPK_detail'.
+08/07/2014 10:39:25 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabangnama'.
+08/07/2014 10:40:14 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'spk_produksi_no', table 'PRM.dbo.SPK_Pakai'; column
+does not allow nulls. INSERT fails.
+08/07/2014 10:49:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'spk_pakai'.
+07/10/2014 13:32:26 - User ID : --- - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Pakai'.
+10/07/2014 13:33:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'Pakai'.
+10/07/2014 13:39:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The correlation name 'pk' is specified multiple times in a FROM clause.
+10/07/2014 13:50:55 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'Pakai.Pakai_No' is invalid
+in the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+10/07/2014 13:50:59 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'Pakai.Pakai_No' is invalid
+in the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+10/07/2014 13:51:56 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'Pakai.Pakai_No' is invalid
+in the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+10/07/2014 13:51:59 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'Pakai.Pakai_No' is invalid
+in the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+10/07/2014 13:52:29 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'cabang.Kode' is invalid in
+the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+10/07/2014 13:52:32 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'cabang.Kode' is invalid in
+the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+10/07/2014 13:53:03 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'cabang.Kode' is invalid in
+the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+10/07/2014 13:53:05 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'cabang.Kode' is invalid in
+the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+10/07/2014 13:53:45 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'cabang.Nama' is invalid in
+the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+10/07/2014 13:53:48 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'cabang.Nama' is invalid in
+the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+11/07/2014 10:16:46 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'Warna.Nama' is invalid in
+the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+11/07/2014 14:50:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pesanTambah_no'.
+11/07/2014 14:50:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'op_no'.
+11/07/2014 15:19:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Mesin_kode'.
+11/07/2014 15:20:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Mesin_kode'.
+11/07/2014 15:27:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'urutan'.
+11/07/2014 15:30:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori'.
+11/07/2014 15:30:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori'.
+11/07/2014 15:36:24 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'MESIN'.
+11/07/2014 16:19:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'so_no'.
+11/07/2014 16:48:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:48:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Nama'.
+11/07/2014 16:48:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:49:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:52:10 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:52:10 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The correlation name 'dt' is specified multiple times in a FROM clause.
+11/07/2014 16:52:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:52:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:52:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:52:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:55:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:55:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+11/07/2014 16:55:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:55:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:56:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:56:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:56:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:58:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:58:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+11/07/2014 16:58:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+14/07/2014 08:51:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 08:51:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 08:57:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 08:59:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 08:59:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 08:59:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:03:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:03:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:03:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:03:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.mesin_id" could not be bound.
+14/07/2014 09:03:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'mesin_id'.
+14/07/2014 09:03:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.mesin_id" could not be bound.
+14/07/2014 09:04:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.mesin_id" could not be bound.
+14/07/2014 09:05:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:05:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:05:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:05:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:09:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:09:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:09:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:10:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:10:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:10:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:13:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'ORDER'.
+14/07/2014 09:13:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'ORDER'.
+14/07/2014 09:13:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.mesin_id" could not be bound.
+14/07/2014 09:13:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.mesin_id" could not be bound.
+14/07/2014 09:13:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.mesin_id" could not be bound.
+14/07/2014 09:14:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:14:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:14:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:14:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'mesin_kode'.
+14/07/2014 09:15:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:17:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:17:09 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:17:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:17:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'mesin_kode'.
+14/07/2014 09:27:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:27:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:27:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:28:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:28:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:28:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:28:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:28:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:29:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:29:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 09:34:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.Aktif" could not be bound.
+14/07/2014 09:34:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.Aktif" could not be bound.
+14/07/2014 09:34:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.Aktif" could not be bound.
+14/07/2014 09:35:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'mesin_kode'.
+14/07/2014 09:35:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'mesin_kode'.
+14/07/2014 09:35:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'mesin_kode'.
+14/07/2014 09:36:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'mesin_kode'.
+14/07/2014 10:05:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'JOIN'.
+14/07/2014 10:05:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'JOIN'.
+14/07/2014 10:05:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'JOIN'.
+14/07/2014 10:05:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'JOIN'.
+14/07/2014 10:33:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_nama'.
+14/07/2014 10:35:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_nama'.
+14/07/2014 10:35:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_nama'.
+14/07/2014 10:37:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_nama'.
+14/07/2014 11:00:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'Mesin_id'.
+14/07/2014 11:00:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'Mesin_id'.
+14/07/2014 11:01:05 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'spk_detail.spk_no' is
+invalid in the select list because it is not contained in
+either an aggregate function or the GROUP BY clause.
+14/07/2014 11:03:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'Mesin_id'.
+14/07/2014 11:28:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'and'.
+14/07/2014 11:28:24 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'and'.
+14/07/2014 11:28:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'and'.
+14/07/2014 11:28:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'and'.
+14/07/2014 11:28:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'and'.
+14/07/2014 11:29:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 11:29:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'Mesin_id'.
+14/07/2014 11:29:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 11:29:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "mt.mesin_id" could not be bound.
+14/07/2014 11:29:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+14/07/2014 11:29:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'Mesin_id'.
+14/07/2014 11:29:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+14/07/2014 11:29:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.cabang_id" could not be bound.
+14/07/2014 11:32:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'WHERE'.
+14/07/2014 11:32:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'WHERE'.
+14/07/2014 11:32:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'WHERE'.
+14/07/2014 11:33:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'WHERE'.
+14/07/2014 11:33:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'WHERE'.
+14/07/2014 11:33:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'WHERE'.
+14/07/2014 11:33:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'WHERE'.
+14/07/2014 11:33:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'WHERE'.
+14/07/2014 11:33:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'WHERE'.
+16/07/2014 11:18:19 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 11:18:31 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 11:26:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'spk_proses'.
+16/07/2014 11:29:26 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 11:29:30 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 11:29:34 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 11:29:37 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 11:29:41 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 11:41:09 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 13:07:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.keterangan" could not be bound.
+16/07/2014 13:08:54 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 13:12:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting the varchar value 'Hasil Mesin' to data type int.
+16/07/2014 13:12:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting the varchar value 'Hasil Mesin' to data type int.
+16/07/2014 16:05:36 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 16:24:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting the varchar value 'M.POT1407.0001' to data type int.
+16/07/2014 16:24:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting the varchar value 'M.POT1407.0001' to data type int.
+16/07/2014 16:24:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Conversion failed when converting the varchar value 'M.POT1407.0001' to data type int.
+16/07/2014 16:40:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'spk_hasil'.
+16/07/2014 16:43:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+16/07/2014 16:47:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '.'.
+16/07/2014 16:47:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '.'.
+16/07/2014 16:57:58 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 16:58:00 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 16:58:01 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+16/07/2014 16:58:02 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]All queries combined using a UNION,
+INTERSECT or EXCEPT operator must have an equal number of
+expressions in their target lists.
+17/07/2014 08:29:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'chk_po'.
+17/07/2014 08:29:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kurs'.
+17/07/2014 08:30:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kurs'.
+17/07/2014 08:30:10 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_id2'.
+17/07/2014 08:30:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tambahan'.
+17/07/2014 08:30:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tambahan'.
+17/07/2014 08:30:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tambahan'.
+17/07/2014 08:30:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tambahan'.
+17/07/2014 08:38:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'as'.
+17/07/2014 09:01:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'mt'.
+17/07/2014 09:01:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near ','.
+17/07/2014 09:06:23 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_Hasil'. Cannot insert duplicate key in object
+'dbo.SPK_Hasil'.
+17/07/2014 09:06:23 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_Hasil'. Cannot insert duplicate key in object
+'dbo.SPK_Hasil'.
+17/07/2014 09:07:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'operator_nama2'.
+17/07/2014 09:08:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'operator_nama2'.
+17/07/2014 09:10:45 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_Hasil'. Cannot insert duplicate key in object
+'dbo.SPK_Hasil'.
+17/07/2014 09:10:46 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_Hasil'. Cannot insert duplicate key in object
+'dbo.SPK_Hasil'.
+17/07/2014 11:18:18 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_SPK_Hasil'. Cannot insert duplicate key in object
+'dbo.SPK_Hasil'.
+17/07/2014 11:51:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:51:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:51:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:52:12 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:52:12 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:52:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:52:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:52:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:52:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:53:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:53:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:53:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:53:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:53:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:54:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:55:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'selesai'.
+17/07/2014 11:55:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'selesai'.
+17/07/2014 11:55:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'selesai'.
+17/07/2014 11:56:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:56:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:56:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:58:24 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:58:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 11:58:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 12:00:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 12:01:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 12:01:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 12:01:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 12:01:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 12:02:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 12:02:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 12:02:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 15:10:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 15:10:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+17/07/2014 15:10:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.selesai" could not be bound.
+18/07/2014 09:00:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:00:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:01:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:02:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:02:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:02:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:04:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:06:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:09:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:10:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:11:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:11:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'menu'.
+18/07/2014 09:18:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'as'.
+18/07/2014 09:18:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'as'.
+18/07/2014 09:19:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'as'.
+18/07/2014 09:20:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'as'.
+18/07/2014 09:20:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'as'.
+18/07/2014 09:21:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'as'.
+18/07/2014 09:23:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'as'.

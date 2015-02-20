@@ -1,0 +1,6 @@
+
+30/09/2014 08:18:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'CASE'.
+30/09/2014 08:18:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'CASE'.
+30/09/2014 08:37:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_kode'.
+30/09/2014 08:37:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_kode'.
+30/09/2014 08:38:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_kode'.

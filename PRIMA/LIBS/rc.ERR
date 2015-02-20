@@ -1,0 +1,2354 @@
+pcontain
+Error in line 6: Unrecognized command verb.
+ptable
+Error in line 7: Unrecognized command verb.
+commandbutton
+Error in line 18: Unrecognized command verb.
+filter_cnt
+Error in line 20: Unrecognized command verb.
+commandbutton
+Error in line 21: Unrecognized command verb.
+pprevilage Property Previlage User
+Error in line 24: Unrecognized command verb.
+commandbutton
+Error in line 26: Unrecognized command verb.
+filter_cnt
+Error in line 27: Unrecognized command verb.
+pwhere
+Error in line 28: Unrecognized command verb.
+porder
+Error in line 29: Unrecognized command verb.
+pvalidation
+Error in line 30: Unrecognized command verb.
+THISFORM.mRequery()
+Error in line 32: Statement is not in a procedure.
+ENDPROC
+Error in line 33: Nesting error.
+filter_cnt
+Error in line 42: Unrecognized command verb.
+commandbutton
+Error in line 44: Unrecognized command verb.
+commandbutton
+Error in line 45: Unrecognized command verb.
+Tahoma, 0, 9, 5, 14, 12, 25, 2, 0
+Error in line 46: Unrecognized command verb.
+filter_cnt
+Error in line 50: Unrecognized command verb.
+filter_cnt
+Error in line 51: Unrecognized command verb.
+Tahoma, 0, 9, 5, 14, 12, 25, 2, 0
+Error in line 52: Unrecognized command verb.
+Left = 660
+Error in line 54: Statement is not in a procedure.
+Name = "Undo_cmd1"
+Error in line 55: Statement is not in a procedure.
+filter_cnt
+Error in line 57: Unrecognized command verb.
+Tahoma, 1, 8, 6, 13, 11, 26, 2, 0
+Error in line 59: Unrecognized command verb.
+Tahoma, 0, 8, 5, 13, 11, 23, 2, 0
+Error in line 60: Unrecognized command verb.
+transharga
+Error in line 62: Unrecognized command verb.
+filter_cnt
+Error in line 63: Unrecognized command verb.
+Anchor = 3
+Error in line 64: Statement is not in a procedure.
+Caption = "dengan"
+Error in line 65: Statement is not in a procedure.
+Left = 172
+Error in line 66: Statement is not in a procedure.
+Top = 8
+Error in line 67: Statement is not in a procedure.
+Name = "lblDengan"
+Error in line 68: Statement is not in a procedure.
+commandbutton
+Error in line 70: Unrecognized command verb.
+mastergrid
+Error in line 71: Unrecognized command verb.
+commandbutton
+Error in line 73: Unrecognized command verb.
+amount_cnt
+Error in line 74: Unrecognized command verb.
+mastergrid
+Error in line 75: Unrecognized command verb.
+^alist[1,0] 
+Error in line 78: Unrecognized command verb.
+Left = 576
+Error in line 80: Statement is not in a procedure.
+Name = "Save_cmd1"
+Error in line 81: Statement is not in a procedure.
+commandbutton
+Error in line 83: Unrecognized command verb.
+Left = 0
+Error in line 84: Statement is not in a procedure.
+Name = "_pass1"
+Error in line 85: Statement is not in a procedure.
+pworkarea = .F.
+Error in line 87: Statement is not in a procedure.
+ptable = .F.
+Error in line 88: Statement is not in a procedure.
+Name = "code_txt"
+Error in line 89: Statement is not in a procedure.
+Anchor = 3
+Error in line 92: Statement is not in a procedure.
+Caption = "Filter Data"
+Error in line 93: Statement is not in a procedure.
+Left = 10
+Error in line 94: Statement is not in a procedure.
+Top = 8
+Error in line 95: Statement is not in a procedure.
+Name = "lblFilter"
+Error in line 96: Statement is not in a procedure.
+Left = 5
+Error in line 98: Statement is not in a procedure.
+Height = 60
+Error in line 99: Statement is not in a procedure.
+Width = 140
+Error in line 100: Statement is not in a procedure.
+BackStyle = 0
+Error in line 101: Statement is not in a procedure.
+ZOrderSet = 2
+Error in line 102: Statement is not in a procedure.
+Name = "shpPrint"
+Error in line 103: Statement is not in a procedure.
+mastergrid
+Error in line 105: Unrecognized command verb.
+pkertas
+Error in line 106: Unrecognized command verb.
+ppanjang
+Error in line 107: Unrecognized command verb.
+plebar
+Error in line 108: Unrecognized command verb.
+mastergrid
+Error in line 111: Unrecognized command verb.
+transharga
+Error in line 112: Unrecognized command verb.
+ptable Untuk menyimpan property Tabel yang akan dicari
+Error in line 113: Unrecognized command verb.
+Height = 23
+Error in line 115: Statement is not in a procedure.
+Left = 225
+Error in line 116: Statement is not in a procedure.
+TabIndex = 2
+Error in line 117: Statement is not in a procedure.
+Top = 6
+Error in line 118: Statement is not in a procedure.
+Width = 115
+Error in line 119: Statement is not in a procedure.
+DisabledBackColor = 255,255,255
+Error in line 120: Syntax error.
+Name = "txtFilter"
+Error in line 121: Statement is not in a procedure.
+Left = 5
+Error in line 123: Statement is not in a procedure.
+Height = 25
+Error in line 124: Statement is not in a procedure.
+Width = 140
+Error in line 125: Statement is not in a procedure.
+BackStyle = 0
+Error in line 126: Statement is not in a procedure.
+ZOrderSet = 0
+Error in line 127: Statement is not in a procedure.
+Name = "shpKode"
+Error in line 128: Statement is not in a procedure.
+Tahoma, 0, 10, 6, 16, 13, 27, 3, 0
+Error in line 131: Unrecognized command verb.
+mastergrid
+Error in line 134: Unrecognized command verb.
+gridfooter
+Error in line 135: Unrecognized command verb.
+lblCaption
+Error in line 136: Unrecognized command verb.
+commandbutton
+Error in line 137: Unrecognized command verb.
+Width = 90
+Error in line 138: Statement is not in a procedure.
+pType = D
+Error in line 139: Statement is not in a procedure.
+Name = "date_ole"
+Error in line 140: Statement is not in a procedure.
+pperiod
+Error in line 142: Unrecognized command verb.
+THISFORM.Hide()
+Error in line 144: Statement is not in a procedure.
+ENDPROC
+Error in line 145: Nesting error.
+AutoCenter = .T.
+Error in line 147: Statement is not in a procedure.
+MinButton = .F.
+Error in line 148: Statement is not in a procedure.
+WindowState = 0
+Error in line 149: Statement is not in a procedure.
+Name = "_new"
+Error in line 150: Statement is not in a procedure.
+FontSize = 10
+Error in line 152: Statement is not in a procedure.
+Caption = "Tanggal"
+Error in line 153: Statement is not in a procedure.
+Name = "Header1"
+Error in line 154: Statement is not in a procedure.
+FontSize = 10
+Error in line 156: Statement is not in a procedure.
+Caption = "No Bukti"
+Error in line 157: Statement is not in a procedure.
+Name = "Header1"
+Error in line 158: Statement is not in a procedure.
+olecontrol
+Error in line 160: Unrecognized command verb.
+pwhere
+Error in line 162: Unrecognized command verb.
+Tahoma, 0, 10, 6, 16, 13, 27, 3, 0
+Error in line 165: Unrecognized command verb.
+Tahoma, 1, 9, 6, 14, 12, 28, 2, 0
+Error in line 166: Unrecognized command verb.
+pworkarea
+Error in line 169: Unrecognized command verb.
+olecontrol
+Error in line 171: Unrecognized command verb.
+olecontrol
+Error in line 173: Unrecognized command verb.
+commandbutton
+Error in line 175: Unrecognized command verb.
+BackColor = 128,255,255
+Error in line 176: Syntax error.
+ptype = C
+Error in line 177: Statement is not in a procedure.
+Name = "name_txt"
+Error in line 178: Statement is not in a procedure.
+Left = 716
+Error in line 181: Statement is not in a procedure.
+Name = "_cmdbrw1"
+Error in line 182: Statement is not in a procedure.
+Print_cmd1
+Error in line 184: Unrecognized command verb.
+Width = 195
+Error in line 185: Statement is not in a procedure.
+_date_column = 
+Error in line 186: Syntax error.
+Name = "olecalendar"
+Error in line 187: Statement is not in a procedure.
+THISFORM.grd1.mRequery()
+Error in line 189: Statement is not in a procedure.
+ENDPROC
+Error in line 190: Nesting error.
+commandbutton
+Error in line 193: Unrecognized command verb.
+THISFORM.grd1.mRequery()
+Error in line 195: Statement is not in a procedure.
+ENDPROC
+Error in line 196: Nesting error.
+olecontrol
+Error in line 198: Unrecognized command verb.
+commandbutton
+Error in line 200: Unrecognized command verb.
+Tahoma, 0, 9, 5, 14, 12, 25, 2, 0
+Error in line 201: Unrecognized command verb.
+Tahoma, 0, 8, 5, 13, 11, 23, 2, 0
+Error in line 202: Unrecognized command verb.
+Width = 150
+Error in line 204: Statement is not in a procedure.
+Name = "complete_lst"
+Error in line 205: Statement is not in a procedure.
+Left = 425
+Error in line 207: Statement is not in a procedure.
+Anchor = 9
+Error in line 208: Statement is not in a procedure.
+BackColor = 185,210,240
+Error in line 209: Syntax error.
+ZOrderSet = 4
+Error in line 210: Statement is not in a procedure.
+Name = "Print_cmd1"
+Error in line 211: Statement is not in a procedure.
+commandbutton
+Error in line 213: Unrecognized command verb.
+Width = 70
+Error in line 214: Statement is not in a procedure.
+pdate = .F.
+Error in line 215: Statement is not in a procedure.
+pperiod = .F.
+Error in line 216: Statement is not in a procedure.
+ptype = D
+Error in line 217: Statement is not in a procedure.
+Name = "tanggal_txt"
+Error in line 218: Statement is not in a procedure.
+Caption = ""
+Error in line 220: Statement is not in a procedure.
+Left = 13
+Error in line 221: Statement is not in a procedure.
+Top = 3
+Error in line 222: Statement is not in a procedure.
+ZOrderSet = 3
+Error in line 223: Statement is not in a procedure.
+Name = "lblCaption"
+Error in line 224: Statement is not in a procedure.
+olecontrol
+Error in line 228: Unrecognized command verb.
+ypopup
+Error in line 230: Unrecognized command verb.
+pformfile
+Error in line 232: Unrecognized command verb.
+pformname
+Error in line 233: Unrecognized command verb.
+commandbutton
+Error in line 235: Unrecognized command verb.
+Width = 50
+Error in line 236: Statement is not in a procedure.
+ptype = C
+Error in line 237: Statement is not in a procedure.
+Name = "time_txt"
+Error in line 238: Statement is not in a procedure.
+Name = "_mnbar"
+Error in line 240: Statement is not in a procedure.
+pType Type dari Value
+Error in line 242: Unrecognized command verb.
+olecontrol
+Error in line 244: Unrecognized command verb.
+Left = 95
+Error in line 246: Statement is not in a procedure.
+Height = 24
+Error in line 247: Statement is not in a procedure.
+Width = 90
+Error in line 248: Statement is not in a procedure.
+TabIndex = 4
+Error in line 249: Statement is not in a procedure.
+ZOrderSet = 4
+Error in line 250: Statement is not in a procedure.
+Anchor = 3
+Error in line 251: Statement is not in a procedure.
+Name = "cboTanggalAkhir"
+Error in line 252: Statement is not in a procedure.
+IF DODEFAULT()
+Error in line 255: Statement is not in a procedure.
+THISFORM.mValidasi(0)
+Error in line 256: Statement is not in a procedure.
+ENDIF 
+Error in line 257: Statement is not in a procedure.
+ENDPROC
+Error in line 258: Nesting error.
+Width = 23
+Error in line 260: Statement is not in a procedure.
+Caption = "..."
+Error in line 261: Statement is not in a procedure.
+Name = "color_cmd"
+Error in line 262: Statement is not in a procedure.
+commandbutton
+Error in line 264: Unrecognized command verb.
+Picture = ..\graphics\view.ico
+Error in line 265: Syntax error.
+Caption = " View"
+Error in line 266: Statement is not in a procedure.
+Name = "viewpCommand"
+Error in line 267: Statement is not in a procedure.
+Tahoma, 0, 9, 5, 14, 12, 25, 2, 0
+Error in line 270: Unrecognized command verb.
+Tahoma, 0, 8, 5, 13, 11, 23, 2, 0
+Error in line 271: Unrecognized command verb.
+Tahoma, 0, 10, 6, 16, 13, 27, 3, 0
+Error in line 272: Unrecognized command verb.
+browse_frm
+Error in line 274: Unrecognized command verb.
+browse_frm
+Error in line 275: Unrecognized command verb.
+browse_frm
+Error in line 276: Unrecognized command verb.
+olecontrol
+Error in line 277: Unrecognized command verb.
+Height = 275
+Error in line 278: Statement is not in a procedure.
+Left = 5
+Error in line 279: Statement is not in a procedure.
+TabIndex = 2
+Error in line 280: Statement is not in a procedure.
+Top = 50
+Error in line 281: Statement is not in a procedure.
+Width = 590
+Error in line 282: Statement is not in a procedure.
+HighlightStyle = 2
+Error in line 283: Statement is not in a procedure.
+ZOrderSet = 2
+Error in line 284: Statement is not in a procedure.
+Name = "Grd1"
+Error in line 285: Statement is not in a procedure.
+browse_frm
+Error in line 287: Unrecognized command verb.
+Left = 18
+Error in line 288: Statement is not in a procedure.
+Name = "_mnbar1"
+Error in line 289: Statement is not in a procedure.
+Left = 1
+Error in line 291: Statement is not in a procedure.
+Name = "_PASS1"
+Error in line 292: Statement is not in a procedure.
+Caption = "dengan"
+Error in line 294: Statement is not in a procedure.
+Left = 165
+Error in line 295: Statement is not in a procedure.
+Top = 8
+Error in line 296: Statement is not in a procedure.
+Name = "lblDengan"
+Error in line 297: Statement is not in a procedure.
+amount_cnt
+Error in line 299: Unrecognized command verb.
+Height = 325
+Error in line 300: Statement is not in a procedure.
+Width = 750
+Error in line 301: Statement is not in a procedure.
+Name = "_grd"
+Error in line 302: Statement is not in a procedure.
+Caption = "Cari Data"
+Error in line 304: Statement is not in a procedure.
+Left = 9
+Error in line 305: Statement is not in a procedure.
+Top = 8
+Error in line 306: Statement is not in a procedure.
+Name = "lblCari"
+Error in line 307: Statement is not in a procedure.
+Width = 80
+Error in line 309: Statement is not in a procedure.
+Anchor = 12
+Error in line 310: Statement is not in a procedure.
+Picture = ..\graphics\undo.bmp
+Error in line 311: Syntax error.
+Caption = " \<Undo"
+Error in line 312: Statement is not in a procedure.
+Name = "undo_cmd"
+Error in line 313: Statement is not in a procedure.
+filter_cnt
+Error in line 315: Unrecognized command verb.
+Left = 95
+Error in line 316: Statement is not in a procedure.
+Height = 24
+Error in line 317: Statement is not in a procedure.
+Width = 90
+Error in line 318: Statement is not in a procedure.
+TabIndex = 3
+Error in line 319: Statement is not in a procedure.
+ZOrderSet = 3
+Error in line 320: Statement is not in a procedure.
+Anchor = 3
+Error in line 321: Statement is not in a procedure.
+Name = "cboTanggalAwal"
+Error in line 322: Statement is not in a procedure.
+BackColor = 212,212,212
+Error in line 324: Syntax error.
+Name = "_txt"
+Error in line 325: Statement is not in a procedure.
+Picture = ..\graphics\preview.bmp
+Error in line 327: Syntax error.
+Caption = "  \<Lihat"
+Error in line 328: Statement is not in a procedure.
+ToolTipText = "Lihat semua Transaksi berdasarkan periode..."
+Error in line 329: Statement is not in a procedure.
+BackColor = 185,210,240
+Error in line 330: Syntax error.
+pcommand = .F.
+Error in line 331: Statement is not in a procedure.
+pwhere = .F.
+Error in line 332: Statement is not in a procedure.
+porder = .F.
+Error in line 333: Statement is not in a procedure.
+pvalidation = .F.
+Error in line 334: Statement is not in a procedure.
+Name = "_cmdbrw"
+Error in line 335: Statement is not in a procedure.
+pwhere
+Error in line 337: Unrecognized command verb.
+BackColor = 64,200,180
+Error in line 339: Syntax error.
+pstartprocess = 3
+Error in line 340: Statement is not in a procedure.
+ptype = C
+Error in line 341: Statement is not in a procedure.
+Name = "complete_txt"
+Error in line 342: Statement is not in a procedure.
+Height = 23
+Error in line 345: Statement is not in a procedure.
+Width = 23
+Error in line 346: Statement is not in a procedure.
+Caption = "..."
+Error in line 347: Statement is not in a procedure.
+SpecialEffect = 0
+Error in line 348: Statement is not in a procedure.
+Name = "tanggal_cmd"
+Error in line 349: Statement is not in a procedure.
+WITH THISFORM
+Error in line 355: Statement is not in a procedure.
+THISFORM.pReturn = .F.	
+Error in line 358: Statement is not in a procedure.
+IF THISFORM.pMany
+Error in line 360: Statement is not in a procedure.
+REPLACE ALL sts WITH 0 IN _tBrowse
+Error in line 361: Statement is not in a procedure.
+ENDIF 
+Error in line 362: Statement is not in a procedure.
+THISFORM.Visible = .F. 
+Error in line 364: Statement is not in a procedure.
+ENDWITH 
+Error in line 365: Statement is not in a procedure.
+ENDPROC
+Error in line 366: Nesting error.
+commandbutton
+Error in line 368: Unrecognized command verb.
+Width = 80
+Error in line 370: Statement is not in a procedure.
+Anchor = 12
+Error in line 371: Statement is not in a procedure.
+Picture = ..\graphics\save.bmp
+Error in line 372: Syntax error.
+Caption = "  \<Save"
+Error in line 373: Statement is not in a procedure.
+Name = "save_cmd"
+Error in line 374: Statement is not in a procedure.
+
+Error in line 378: Unrecognized command verb.
+Left = 10
+Error in line 381: Statement is not in a procedure.
+Height = 31
+Error in line 382: Statement is not in a procedure.
+Width = 96
+Error in line 383: Statement is not in a procedure.
+Anchor = 6
+Error in line 384: Statement is not in a procedure.
+Picture = ..\graphics\undo.ico
+Error in line 385: Syntax error.
+Caption = "   \<Exit"
+Error in line 386: Statement is not in a procedure.
+TabIndex = 2
+Error in line 387: Statement is not in a procedure.
+ZOrderSet = 3
+Error in line 388: Statement is not in a procedure.
+Name = "cmdExit"
+Error in line 389: Statement is not in a procedure.
+cmdProcess
+Error in line 391: Unrecognized command verb.
+DisabledBackColor = 236,233,216
+Error in line 392: Syntax error.
+pvalue = 
+Error in line 393: Syntax error.
+Name = "browse_txt"
+Error in line 394: Statement is not in a procedure.
+period_cnt
+Error in line 396: Unrecognized command verb.
+commandbutton
+Error in line 397: Unrecognized command verb.
+browse_frm
+Error in line 398: Unrecognized command verb.
+cntCommand
+Error in line 399: Unrecognized command verb.
+browse_cmd
+Error in line 402: Unrecognized command verb.
+ýù3
+Error in line 404: Unrecognized command verb.
+ýùxþ
+Error in line 405: Unrecognized command verb.
+
+Error in line 407: Unrecognized command verb.
+
+Error in line 411: Unrecognized command verb.
+Left = 485
+Error in line 413: Statement is not in a procedure.
+Height = 31
+Error in line 414: Statement is not in a procedure.
+Width = 96
+Error in line 415: Statement is not in a procedure.
+Anchor = 12
+Error in line 416: Statement is not in a procedure.
+Picture = ..\graphics\ok.ico
+Error in line 417: Syntax error.
+Caption = "   \<Process"
+Error in line 418: Statement is not in a procedure.
+TabIndex = 1
+Error in line 419: Statement is not in a procedure.
+ZOrderSet = 3
+Error in line 420: Statement is not in a procedure.
+Name = "cmdProcess"
+Error in line 421: Statement is not in a procedure.
+Left = 20
+Error in line 423: Statement is not in a procedure.
+Name = "_mnbar1"
+Error in line 424: Statement is not in a procedure.
+oleCommDialog
+Error in line 426: Unrecognized command verb.
+Anchor = 3
+Error in line 427: Statement is not in a procedure.
+ColumnCount = 1
+Error in line 428: Statement is not in a procedure.
+RowSourceType = 5
+Error in line 429: Statement is not in a procedure.
+Height = 23
+Error in line 430: Statement is not in a procedure.
+Left = 79
+Error in line 431: Statement is not in a procedure.
+Style = 2
+Error in line 432: Statement is not in a procedure.
+TabIndex = 1
+Error in line 433: Statement is not in a procedure.
+Top = 6
+Error in line 434: Statement is not in a procedure.
+Width = 85
+Error in line 435: Statement is not in a procedure.
+DisabledBackColor = 255,255,255
+Error in line 436: Syntax error.
+Name = "cboField"
+Error in line 437: Statement is not in a procedure.
+browse_cmd
+Error in line 439: Unrecognized command verb.
+AutoSize = .F.
+Error in line 440: Statement is not in a procedure.
+Alignment = 0
+Error in line 441: Statement is not in a procedure.
+Caption = "Validasi"
+Error in line 442: Statement is not in a procedure.
+ptable = .F.
+Error in line 443: Statement is not in a procedure.
+pprevilage = .F.
+Error in line 444: Statement is not in a procedure.
+Name = "validation_chk"
+Error in line 445: Statement is not in a procedure.
+Left = 546
+Error in line 447: Statement is not in a procedure.
+Height = 24
+Error in line 448: Statement is not in a procedure.
+Width = 104
+Error in line 449: Statement is not in a procedure.
+FontBold = .T.
+Error in line 450: Statement is not in a procedure.
+Anchor = 9
+Error in line 451: Statement is not in a procedure.
+Caption = "Tutup Form"
+Error in line 452: Statement is not in a procedure.
+SpecialEffect = 0
+Error in line 453: Statement is not in a procedure.
+ZOrderSet = 2
+Error in line 454: Statement is not in a procedure.
+Alignment = 2
+Error in line 455: Statement is not in a procedure.
+Name = "cmdHide"
+Error in line 456: Statement is not in a procedure.
+ò
+Error in line 458: Unrecognized command verb.
+Tahoma, 0, 8, 5, 13, 11, 23, 2, 0
+Error in line 460: Unrecognized command verb.
+Tahoma, 0, 9, 5, 14, 12, 25, 2, 0
+Error in line 461: Unrecognized command verb.
+Tahoma, 1, 9, 6, 14, 12, 28, 2, 0
+Error in line 462: Unrecognized command verb.
+Width = 80
+Error in line 464: Statement is not in a procedure.
+Anchor = 3
+Error in line 465: Statement is not in a procedure.
+Picture = ..\graphics\refresh.bmp
+Error in line 466: Syntax error.
+Caption = "  \<Perbarui"
+Error in line 467: Statement is not in a procedure.
+ToolTipText = "Mengambil ulang data dari database..."
+Error in line 468: Statement is not in a procedure.
+DisabledBackColor = 185,210,240
+Error in line 469: Syntax error.
+Name = "refresh_cmd"
+Error in line 470: Statement is not in a procedure.
+olecontrol
+Error in line 472: Unrecognized command verb.
+olecontrol
+Error in line 473: Unrecognized command verb.
+amount_cnt
+Error in line 474: Unrecognized command verb.
+porder
+Error in line 475: Unrecognized command verb.
+Width = 18
+Error in line 479: Statement is not in a procedure.
+pcommand = 
+Error in line 480: Syntax error.
+pvalue = 
+Error in line 481: Syntax error.
+pcommandedit = 
+Error in line 482: Syntax error.
+pcommanddelete = 
+Error in line 483: Syntax error.
+Name = "_pass"
+Error in line 484: Statement is not in a procedure.
+LOCAL oFormFile
+Error in line 486: Statement is not in a procedure.
+oFormFile = THIS.pFormFile
+Error in line 487: Statement is not in a procedure.
+IF TYPE("THIS.pFormName") <> "L"
+Error in line 489: Statement is not in a procedure.
+SELECT (THIS.pWorkArea)
+Error in line 490: Statement is not in a procedure.
+IF !WEXIST(THIS.pFormName)
+Error in line 491: Statement is not in a procedure.
+DO FORM &oFormFile WITH THISFORM.Name,THISFORM.pID,THISFORM.pIDValue,"view"
+Error in line 492: Statement is not in a procedure.
+ELSE
+Error in line 493: Statement is not in a procedure.
+fnPassprm(THIS.pFormName,"INIT()")
+Error in line 494: Statement is not in a procedure.
+fnPassprm(THIS.pFormName,"SHOW()")
+Error in line 495: Statement is not in a procedure.
+ENDIF
+Error in line 496: Statement is not in a procedure.
+THISFORM.Enabled = .F.
+Error in line 497: Statement is not in a procedure.
+ENDIF
+Error in line 498: Statement is not in a procedure.
+ENDPROC
+Error in line 499: Nesting error.
+Left = 336
+Error in line 503: Statement is not in a procedure.
+Anchor = 9
+Error in line 504: Statement is not in a procedure.
+Picture = ..\graphics\preview.bmp
+Error in line 505: Syntax error.
+Caption = "Cari"
+Error in line 506: Statement is not in a procedure.
+PictureMargin = 10
+Error in line 507: Statement is not in a procedure.
+DisabledBackColor = 240,240,240
+Error in line 508: Syntax error.
+Name = "cmdCari"
+Error in line 509: Statement is not in a procedure.
+commandbutton
+Error in line 511: Unrecognized command verb.
+Left = 0
+Error in line 512: Statement is not in a procedure.
+ScrollBars = 3
+Error in line 513: Statement is not in a procedure.
+Top = 25
+Error in line 514: Statement is not in a procedure.
+Width = 650
+Error in line 515: Statement is not in a procedure.
+ZOrderSet = 0
+Error in line 516: Statement is not in a procedure.
+Name = "Grd1"
+Error in line 517: Statement is not in a procedure.
+LOCAL x,y
+Error in line 519: Statement is not in a procedure.
+x = BAR()
+Error in line 520: Statement is not in a procedure.
+y = POPUP()
+Error in line 521: Statement is not in a procedure.
+IF !EMPTY(x) AND !EMPTY(y)
+Error in line 523: Statement is not in a procedure.
+SET SKIP OF BAR x OF &y .T.
+Error in line 524: Statement is not in a procedure.
+THIS.Xbar = x
+Error in line 525: Statement is not in a procedure.
+THIS.Ypopup = y
+Error in line 526: Statement is not in a procedure.
+ENDIF 
+Error in line 527: Statement is not in a procedure.
+ENDPROC
+Error in line 528: Nesting error.
+porder Property ORDER BY
+Error in line 538: Unrecognized command verb.
+pwhere Property WHERE SQL statement
+Error in line 539: Unrecognized command verb.
+precno Property untuk Record No dari Cursor
+Error in line 540: Unrecognized command verb.
+pobj1
+Error in line 541: Unrecognized command verb.
+pobj2
+Error in line 542: Unrecognized command verb.
+pobj3
+Error in line 543: Unrecognized command verb.
+pobj4
+Error in line 544: Unrecognized command verb.
+pobj5
+Error in line 545: Unrecognized command verb.
+bÑ
+Error in line 559: Unrecognized command verb.
+ýù;þi
+Error in line 561: Unrecognized command verb.
+Alignment = 1
+Error in line 563: Statement is not in a procedure.
+BorderStyle = 0
+Error in line 564: Statement is not in a procedure.
+Value = 0
+Error in line 565: Statement is not in a procedure.
+Enabled = .F.
+Error in line 566: Statement is not in a procedure.
+Height = 20
+Error in line 567: Statement is not in a procedure.
+InputMask = "999,999,999.99"
+Error in line 568: Statement is not in a procedure.
+Left = 40
+Error in line 569: Statement is not in a procedure.
+Top = 20
+Error in line 570: Statement is not in a procedure.
+Width = 100
+Error in line 571: Statement is not in a procedure.
+DisabledBackColor = 185,210,240
+Error in line 572: Syntax error.
+DisabledForeColor = 255,0,0
+Error in line 573: Syntax error.
+Name = "txtAmountPrice"
+Error in line 574: Statement is not in a procedure.
+Left = 126
+Error in line 576: Statement is not in a procedure.
+Height = 22
+Error in line 577: Statement is not in a procedure.
+Width = 90
+Error in line 578: Statement is not in a procedure.
+Name = "cboDate_Start"
+Error in line 579: Statement is not in a procedure.
+Left = 0
+Error in line 581: Statement is not in a procedure.
+Name = "_mnbar1"
+Error in line 582: Statement is not in a procedure.
+Left = 342
+Error in line 584: Statement is not in a procedure.
+Width = 65
+Error in line 585: Statement is not in a procedure.
+FontSize = 8
+Error in line 586: Statement is not in a procedure.
+Anchor = 9
+Error in line 587: Statement is not in a procedure.
+Picture = ..\graphics\reset.bmp
+Error in line 588: Syntax error.
+Caption = "  Reset"
+Error in line 589: Statement is not in a procedure.
+TabIndex = 3
+Error in line 590: Statement is not in a procedure.
+SpecialEffect = 0
+Error in line 591: Statement is not in a procedure.
+DisabledBackColor = 185,210,240
+Error in line 592: Syntax error.
+Name = "cmdReset"
+Error in line 593: Statement is not in a procedure.
+amount_cnt
+Error in line 595: Unrecognized command verb.
+FontSize = 8
+Error in line 596: Statement is not in a procedure.
+BackStyle = 0
+Error in line 597: Statement is not in a procedure.
+BorderStyle = 0
+Error in line 598: Statement is not in a procedure.
+Enabled = .F.
+Error in line 599: Statement is not in a procedure.
+Height = 21
+Error in line 600: Statement is not in a procedure.
+Left = 7
+Error in line 601: Statement is not in a procedure.
+Top = 8
+Error in line 602: Statement is not in a procedure.
+Width = 128
+Error in line 603: Statement is not in a procedure.
+DisabledForeColor = 128,64,64
+Error in line 604: Syntax error.
+ZOrderSet = 1
+Error in line 605: Statement is not in a procedure.
+Name = "txtKode"
+Error in line 606: Statement is not in a procedure.
+commandbutton
+Error in line 608: Unrecognized command verb.
+FontSize = 10
+Error in line 609: Statement is not in a procedure.
+BorderStyle = 0
+Error in line 610: Statement is not in a procedure.
+Margin = 0
+Error in line 611: Statement is not in a procedure.
+ForeColor = 0,0,0
+Error in line 612: Syntax error.
+BackColor = 255,255,255
+Error in line 613: Syntax error.
+SelectedForeColor = 0,0,0
+Error in line 614: Syntax error.
+SelectedBackColor = 10,40,100
+Error in line 615: Syntax error.
+Name = "Text1"
+Error in line 616: Statement is not in a procedure.
+commandbutton
+Error in line 618: Unrecognized command verb.
+÷
+Error in line 621: Unrecognized command verb.
+÷
+Error in line 622: Unrecognized command verb.
+÷
+Error in line 623: Unrecognized command verb.
+÷
+Error in line 624: Unrecognized command verb.
+period_cnt
+Error in line 628: Unrecognized command verb.
+Left = 12
+Error in line 629: Statement is not in a procedure.
+Name = "_pass1"
+Error in line 630: Statement is not in a procedure.
+lblTanggal
+Error in line 632: Unrecognized command verb.
+master_amount
+Error in line 633: Unrecognized command verb.
+master_amount
+Error in line 634: Unrecognized command verb.
+amount_cnt
+Error in line 635: Unrecognized command verb.
+Height = 23
+Error in line 636: Statement is not in a procedure.
+Left = 215
+Error in line 637: Statement is not in a procedure.
+Top = 6
+Error in line 638: Statement is not in a procedure.
+Width = 116
+Error in line 639: Statement is not in a procedure.
+Name = "txtCari"
+Error in line 640: Statement is not in a procedure.
+ColumnCount = 1
+Error in line 642: Statement is not in a procedure.
+RowSourceType = 1
+Error in line 643: Statement is not in a procedure.
+Left = 70
+Error in line 644: Statement is not in a procedure.
+Style = 2
+Error in line 645: Statement is not in a procedure.
+Top = 6
+Error in line 646: Statement is not in a procedure.
+Width = 90
+Error in line 647: Statement is not in a procedure.
+Name = "cboField"
+Error in line 648: Statement is not in a procedure.
+LPARAMETERS cCommand, oCursor
+Error in line 650: Statement is not in a procedure.
+THIS.ListIndex = 1
+Error in line 651: Statement is not in a procedure.
+THIS.SetFocus()
+Error in line 652: Statement is not in a procedure.
+THISForm.Refresh()
+Error in line 653: Statement is not in a procedure.
+ENDPROC
+Error in line 654: Nesting error.
+ð
+Error in line 666: Unrecognized command verb.
+ýùâ
+Error in line 667: Unrecognized command verb.
+÷
+Error in line 668: Unrecognized command verb.
+÷
+Error in line 669: Unrecognized command verb.
+ýùÒ
+Error in line 670: Unrecognized command verb.
+
+Error in line 671: Unrecognized command verb.
+(þ
+Error in line 672: Unrecognized command verb.
+(üô
+Error in line 675: Unrecognized command verb.
+period_cnt
+Error in line 678: Unrecognized command verb.
+Top = 330
+Error in line 679: Statement is not in a procedure.
+Left = 5
+Error in line 680: Statement is not in a procedure.
+Width = 590
+Error in line 681: Statement is not in a procedure.
+Height = 40
+Error in line 682: Statement is not in a procedure.
+BorderWidth = 1
+Error in line 683: Statement is not in a procedure.
+SpecialEffect = 1
+Error in line 684: Statement is not in a procedure.
+TabIndex = 3
+Error in line 685: Statement is not in a procedure.
+ZOrderSet = 0
+Error in line 686: Statement is not in a procedure.
+Name = "cntCommand"
+Error in line 687: Statement is not in a procedure.
+olecontrol
+Error in line 689: Unrecognized command verb.
+Left = 251
+Error in line 690: Statement is not in a procedure.
+Height = 22
+Error in line 691: Statement is not in a procedure.
+Width = 90
+Error in line 692: Statement is not in a procedure.
+Name = "cboDate_Finish"
+Error in line 693: Statement is not in a procedure.
+Left = 4
+Error in line 695: Statement is not in a procedure.
+BackColor = 185,210,240
+Error in line 696: Syntax error.
+ZOrderSet = 0
+Error in line 697: Statement is not in a procedure.
+Name = "_search1"
+Error in line 698: Statement is not in a procedure.
+cboField.Name = "cboField"
+Error in line 699: Statement is not in a procedure.
+txtCari.Name = "txtCari"
+Error in line 700: Statement is not in a procedure.
+cmdCari.Name = "cmdCari"
+Error in line 701: Statement is not in a procedure.
+lblCari.Name = "lblCari"
+Error in line 702: Statement is not in a procedure.
+lblDengan.Name = "lblDengan"
+Error in line 703: Statement is not in a procedure.
+browse_txt
+Error in line 705: Unrecognized command verb.
+WITH THIS
+Error in line 706: Statement is not in a procedure.
+.SetAll("Enabled", IIF(!ISNULL(THISFORM.pStatus),.F.,.T.))
+Error in line 708: Statement is not in a procedure.
+ENDWITH 
+Error in line 709: Statement is not in a procedure.
+ENDPROC
+Error in line 710: Nesting error.
+period_cnt
+Error in line 715: Unrecognized command verb.
+gridfooter
+Error in line 716: Unrecognized command verb.
+ýùF
+Error in line 718: Unrecognized command verb.
+ýù<
+Error in line 724: Unrecognized command verb.
+Left = 5
+Error in line 736: Statement is not in a procedure.
+Height = 100
+Error in line 737: Statement is not in a procedure.
+Width = 100
+Error in line 738: Statement is not in a procedure.
+ZOrderSet = 4
+Error in line 739: Statement is not in a procedure.
+Name = "oleCommDialog"
+Error in line 740: Statement is not in a procedure.
+FontSize = 12
+Error in line 742: Statement is not in a procedure.
+Anchor = 3
+Error in line 743: Statement is not in a procedure.
+BackStyle = 1
+Error in line 744: Statement is not in a procedure.
+Caption = " Filter "
+Error in line 745: Statement is not in a procedure.
+Height = 21
+Error in line 746: Statement is not in a procedure.
+Left = 13
+Error in line 747: Statement is not in a procedure.
+Top = 1
+Error in line 748: Statement is not in a procedure.
+Width = 55
+Error in line 749: Statement is not in a procedure.
+TabIndex = 19
+Error in line 750: Statement is not in a procedure.
+ForeColor = 128,0,0
+Error in line 751: Syntax error.
+ZOrderSet = 11
+Error in line 752: Statement is not in a procedure.
+Name = "lblFilter"
+Error in line 753: Statement is not in a procedure.
+Left = 310
+Error in line 756: Statement is not in a procedure.
+Height = 25
+Error in line 757: Statement is not in a procedure.
+Width = 25
+Error in line 758: Statement is not in a procedure.
+FontBold = .T.
+Error in line 759: Statement is not in a procedure.
+Caption = "..."
+Error in line 760: Statement is not in a procedure.
+Enabled = .F.
+Error in line 761: Statement is not in a procedure.
+TabIndex = 2
+Error in line 762: Statement is not in a procedure.
+BackColor = 147,222,146
+Error in line 763: Syntax error.
+ZOrderSet = 3
+Error in line 764: Statement is not in a procedure.
+Name = "cmdBrowse"
+Error in line 765: Statement is not in a procedure.
+pdirectory
+Error in line 767: Unrecognized command verb.
+pworkarea
+Error in line 768: Unrecognized command verb.
+pkertas
+Error in line 769: Unrecognized command verb.
+Name = "_frm"
+Error in line 771: Statement is not in a procedure.
+FontSize = 10
+Error in line 773: Statement is not in a procedure.
+BorderStyle = 0
+Error in line 774: Statement is not in a procedure.
+Margin = 0
+Error in line 775: Statement is not in a procedure.
+ForeColor = 0,0,0
+Error in line 776: Syntax error.
+BackColor = 255,255,255
+Error in line 777: Syntax error.
+SelectedForeColor = 0,0,0
+Error in line 778: Syntax error.
+SelectedBackColor = 10,40,100
+Error in line 779: Syntax error.
+Name = "Text1"
+Error in line 780: Statement is not in a procedure.
+Width = 350
+Error in line 782: Statement is not in a procedure.
+Height = 30
+Error in line 783: Statement is not in a procedure.
+BackColor = 185,210,240
+Error in line 784: Syntax error.
+Name = "period_cnt"
+Error in line 785: Statement is not in a procedure.
+Left = 20
+Error in line 788: Statement is not in a procedure.
+Height = 25
+Error in line 789: Statement is not in a procedure.
+Width = 125
+Error in line 790: Statement is not in a procedure.
+BackStyle = 0
+Error in line 791: Statement is not in a procedure.
+ZOrderSet = 0
+Error in line 792: Statement is not in a procedure.
+Name = "shpTotal"
+Error in line 793: Statement is not in a procedure.
+amount_cnt
+Error in line 795: Unrecognized command verb.
+cboDate_Start
+Error in line 796: Unrecognized command verb.
+gridfooter
+Error in line 797: Unrecognized command verb.
+Left = 0
+Error in line 798: Statement is not in a procedure.
+Width = 650
+Error in line 799: Statement is not in a procedure.
+Height = 24
+Error in line 800: Statement is not in a procedure.
+BackColor = 130,180,250
+Error in line 801: Syntax error.
+ZOrderSet = 1
+Error in line 802: Statement is not in a procedure.
+Name = "Cnt1"
+Error in line 803: Statement is not in a procedure.
+ýùh
+Error in line 807: Unrecognized command verb.
+ð
+Error in line 808: Unrecognized command verb.
+ò
+Error in line 809: Unrecognized command verb.
+Left = 0
+Error in line 811: Statement is not in a procedure.
+Height = 450
+Error in line 812: Statement is not in a procedure.
+Width = 800
+Error in line 813: Statement is not in a procedure.
+DoCreate = .T.
+Error in line 814: Statement is not in a procedure.
+pwhere = 
+Error in line 815: Syntax error.
+porder = 
+Error in line 816: Syntax error.
+pidvalue = 
+Error in line 817: Syntax error.
+Name = "_entry"
+Error in line 818: Statement is not in a procedure.
+pform
+Error in line 820: Unrecognized command verb.
+pwhere
+Error in line 821: Unrecognized command verb.
+pvalidation
+Error in line 822: Unrecognized command verb.
+pbatal
+Error in line 823: Unrecognized command verb.
+pselesai
+Error in line 824: Unrecognized command verb.
+BackStyle = 1
+Error in line 827: Statement is not in a procedure.
+Caption = "Amount"
+Error in line 828: Statement is not in a procedure.
+Left = 5
+Error in line 829: Statement is not in a procedure.
+Top = 2
+Error in line 830: Statement is not in a procedure.
+ForeColor = 128,0,0
+Error in line 831: Syntax error.
+BackColor = 185,210,240
+Error in line 832: Syntax error.
+DisabledBackColor = 185,210,240
+Error in line 833: Syntax error.
+ZOrderSet = 1
+Error in line 834: Statement is not in a procedure.
+Name = "lblAmount"
+Error in line 835: Statement is not in a procedure.
+THIS.PARENT.pDate_Start = THIS.OBJECT.Value 
+Error in line 837: Statement is not in a procedure.
+THISFORM.mRequery() 
+Error in line 838: Statement is not in a procedure.
+ENDPROC
+Error in line 839: Nesting error.
+period_cnt
+Error in line 841: Unrecognized command verb.
+browse_txt
+Error in line 842: Unrecognized command verb.
+Tahoma, 0, 8, 5, 13, 11, 23, 2, 0
+Error in line 843: Unrecognized command verb.
+Tahoma, 0, 9, 5, 14, 12, 25, 2, 0
+Error in line 844: Unrecognized command verb.
+Height = 40
+Error in line 846: Statement is not in a procedure.
+BackStyle = 0
+Error in line 847: Statement is not in a procedure.
+BorderWidth = 0
+Error in line 848: Statement is not in a procedure.
+SpecialEffect = 2
+Error in line 849: Statement is not in a procedure.
+pworkarea = .F.
+Error in line 850: Statement is not in a procedure.
+Name = "amount_cnt"
+Error in line 851: Statement is not in a procedure.
+master_amount
+Error in line 853: Unrecognized command verb.
+LPARAMETERS oColumn
+Error in line 855: Statement is not in a procedure.
+LOCAL nColor
+Error in line 856: Statement is not in a procedure.
+IF ISNULL(m.oColumn.Value) OR EMPTY(m.oColumn.Value) THEN
+Error in line 858: Statement is not in a procedure.
+nColor = 0
+Error in line 859: Statement is not in a procedure.
+ELSE
+Error in line 860: Statement is not in a procedure.
+nColor = m.oColumn.Value
+Error in line 861: Statement is not in a procedure.
+ENDIF
+Error in line 862: Statement is not in a procedure.
+IF TYPE("nColor") <> "N" THEN
+Error in line 864: Statement is not in a procedure.
+WAIT WINDOW "Tipe Data Color, SALAH !!!"
+Error in line 865: Statement is not in a procedure.
+RETURN .F.
+Error in line 866: Statement is not in a procedure.
+ENDIF
+Error in line 867: Statement is not in a procedure.
+nColor = GETCOLOR(nColor)
+Error in line 869: Statement is not in a procedure.
+IF nColor <> -1 THEN
+Error in line 872: Statement is not in a procedure.
+m.oColumn.Value = nColor
+Error in line 873: Statement is not in a procedure.
+THISFORM.Refresh()
+Error in line 874: Statement is not in a procedure.
+ENDIF
+Error in line 875: Statement is not in a procedure.
+RETURN .T.
+Error in line 877: Statement is not in a procedure.
+ENDPROC
+Error in line 878: Nesting error.
+Width = 76
+Error in line 880: Statement is not in a procedure.
+Picture = ..\graphics\printers.bmp
+Error in line 881: Syntax error.
+Caption = "\<Cetak"
+Error in line 882: Statement is not in a procedure.
+MouseIcon = ..\..\ib motor\graphics\hand.cur
+Error in line 883: Syntax error.
+ToolTipText = "Cetak data..."
+Error in line 884: Statement is not in a procedure.
+PictureMargin = 5
+Error in line 885: Statement is not in a procedure.
+DisabledBackColor = 240,240,240
+Error in line 886: Syntax error.
+pprevilage = .F.
+Error in line 887: Statement is not in a procedure.
+Name = "print_cmd"
+Error in line 888: Statement is not in a procedure.
+master_amount
+Error in line 891: Unrecognized command verb.
+period_cnt
+Error in line 895: Unrecognized command verb.
+Width = 100
+Error in line 896: Statement is not in a procedure.
+Picture = ..\graphics\browse.ico
+Error in line 897: Syntax error.
+Caption = "   \<Browse"
+Error in line 898: Statement is not in a procedure.
+Name = "browse_cmd"
+Error in line 899: Statement is not in a procedure.
+Left = 0
+Error in line 901: Statement is not in a procedure.
+Top = 280
+Error in line 902: Statement is not in a procedure.
+Width = 650
+Error in line 903: Statement is not in a procedure.
+ZOrderSet = 4
+Error in line 904: Statement is not in a procedure.
+ccolwithlabel = column1
+Error in line 905: Statement is not in a procedure.
+csourcegrid = grd1
+Error in line 906: Statement is not in a procedure.
+ctotallabelexpression = 'TOTAL: ' + transform(recc("tView")) + ' brs'
+Error in line 907: Statement is not in a procedure.
+Name = "Gridfooter1"
+Error in line 908: Statement is not in a procedure.
+crecordsourcecursor^
+Error in line 910: Unrecognized command verb.
+lisattached^
+Error in line 911: Unrecognized command verb.
+eventhandler^
+Error in line 912: Unrecognized command verb.
+ENDPROC
+Error in line 915: Nesting error.
+IF TYPE("THIS.Parent.pWorkArea") <> "L" AND USED(THIS.PARENT.pWorkArea)
+Error in line 936: Statement is not in a procedure.
+SELECT (THIS.PARENT.pWorkArea)
+Error in line 938: Statement is not in a procedure.
+SET FILTER TO IN THIS.PARENT.pWorkArea
+Error in line 941: Statement is not in a procedure.
+LOCATE
+Error in line 942: Statement is not in a procedure.
+WITH THIS.PARENT
+Error in line 943: Statement is not in a procedure.
+.txtFilter.Value = ""
+Error in line 944: Statement is not in a procedure.
+ENDWITH 
+Error in line 945: Statement is not in a procedure.
+THISFORM.Refresh()		
+Error in line 946: Statement is not in a procedure.
+ENDIF 
+Error in line 947: Statement is not in a procedure.
+ENDPROC
+Error in line 948: Nesting error.
+pdate_finish Property Tanggal Akhir
+Error in line 950: Unrecognized command verb.
+á
+Error in line 954: Unrecognized command verb.
+÷
+Error in line 957: Unrecognized command verb.
+÷
+Error in line 958: Unrecognized command verb.
+÷
+Error in line 959: Unrecognized command verb.
+ô
+Error in line 961: Unrecognized command verb.
+ô
+Error in line 962: Unrecognized command verb.
+÷
+Error in line 963: Unrecognized command verb.
+ô
+Error in line 964: Unrecognized command verb.
+÷
+Error in line 967: Unrecognized command verb.
+ô
+Error in line 969: Unrecognized command verb.
+÷
+Error in line 970: Unrecognized command verb.
+ô
+Error in line 971: Unrecognized command verb.
+÷
+Error in line 972: Unrecognized command verb.
+ô
+Error in line 973: Unrecognized command verb.
+÷
+Error in line 974: Unrecognized command verb.
+ô
+Error in line 975: Unrecognized command verb.
+÷
+Error in line 976: Unrecognized command verb.
+ô
+Error in line 977: Unrecognized command verb.
+÷
+Error in line 978: Unrecognized command verb.
+ô
+Error in line 979: Unrecognized command verb.
+÷
+Error in line 980: Unrecognized command verb.
+ô
+Error in line 981: Unrecognized command verb.
+÷
+Error in line 982: Unrecognized command verb.
+ô
+Error in line 983: Unrecognized command verb.
+÷
+Error in line 984: Unrecognized command verb.
+ô
+Error in line 985: Unrecognized command verb.
+ô
+Error in line 986: Unrecognized command verb.
+÷
+Error in line 987: Unrecognized command verb.
+ô
+Error in line 988: Unrecognized command verb.
+÷
+Error in line 989: Unrecognized command verb.
+÷
+Error in line 990: Unrecognized command verb.
+ô
+Error in line 991: Unrecognized command verb.
+ô
+Error in line 992: Unrecognized command verb.
+÷
+Error in line 993: Unrecognized command verb.
+÷
+Error in line 994: Unrecognized command verb.
+ô
+Error in line 995: Unrecognized command verb.
+ô
+Error in line 996: Unrecognized command verb.
+÷
+Error in line 997: Unrecognized command verb.
+ô
+Error in line 998: Unrecognized command verb.
+÷
+Error in line 999: Unrecognized command verb.
+÷
+Error in line 1000: Unrecognized command verb.
+ô
+Error in line 1001: Unrecognized command verb.
+÷
+Error in line 1003: Unrecognized command verb.
+ô
+Error in line 1004: Unrecognized command verb.
+ô
+Error in line 1005: Unrecognized command verb.
+÷
+Error in line 1006: Unrecognized command verb.
+÷
+Error in line 1007: Unrecognized command verb.
+ô
+Error in line 1008: Unrecognized command verb.
+÷
+Error in line 1010: Unrecognized command verb.
+ô
+Error in line 1011: Unrecognized command verb.
+ô
+Error in line 1012: Unrecognized command verb.
+÷
+Error in line 1013: Unrecognized command verb.
+ýþ
+Error in line 1032: Unrecognized command verb.
+ýùà
+Error in line 1034: Unrecognized command verb.
+
+Error in line 1035: Unrecognized command verb.
+ýù­þ
+Error in line 1038: Unrecognized command verb.
+ð
+Error in line 1039: Unrecognized command verb.
+
+Error in line 1040: Unrecognized command verb.
+ýùæ
+Error in line 1045: Unrecognized command verb.
+ýù˜þY
+Error in line 1047: Unrecognized command verb.
+
+Error in line 1048: Unrecognized command verb.
+ýù{
+Error in line 1053: Unrecognized command verb.
+Ù#
+Error in line 1058: Unrecognized command verb.
+ýùþF
+Error in line 1060: Unrecognized command verb.
+ýùþ
+Error in line 1061: Unrecognized command verb.
+
+Error in line 1062: Unrecognized command verb.
+ýùÂþF
+Error in line 1063: Unrecognized command verb.
+ýù¾þ
+Error in line 1064: Unrecognized command verb.
+
+Error in line 1065: Unrecognized command verb.
+ýù>þ
+Error in line 1067: Unrecognized command verb.
+
+Error in line 1068: Unrecognized command verb.
+ýùÔþ
+Error in line 1069: Unrecognized command verb.
+
+Error in line 1073: Unrecognized command verb.
+ýþ(
+Error in line 1077: Unrecognized command verb.
+ýþ*
+Error in line 1078: Unrecognized command verb.
+ýþ
+Error in line 1079: Unrecognized command verb.
+ýþ%
+Error in line 1080: Unrecognized command verb.
+ýþ
+Error in line 1081: Unrecognized command verb.
+ð
+Error in line 1087: Unrecognized command verb.
+ýùf
+Error in line 1088: Unrecognized command verb.
+ýù“
+Error in line 1089: Unrecognized command verb.
+pfields Source Fields Browse
+Error in line 1095: Unrecognized command verb.
+ptable Source Table Browse
+Error in line 1096: Unrecognized command verb.
+ptitle Nama Fields pada grid
+Error in line 1097: Unrecognized command verb.
+pseekfield Nama Field yang akan dicari
+Error in line 1098: Unrecognized command verb.
+pmany Property Browse dengan banyak pilihan ( untuk detail )
+Error in line 1099: Unrecognized command verb.
+preturn Property return Form Browse
+Error in line 1100: Unrecognized command verb.
+pcommand
+Error in line 1101: Unrecognized command verb.
+Caption = "s/d"
+Error in line 1104: Statement is not in a procedure.
+Height = 18
+Error in line 1105: Statement is not in a procedure.
+Left = 64
+Error in line 1106: Statement is not in a procedure.
+Top = 51
+Error in line 1107: Statement is not in a procedure.
+Width = 20
+Error in line 1108: Statement is not in a procedure.
+TabIndex = 21
+Error in line 1109: Statement is not in a procedure.
+ZOrderSet = 2
+Error in line 1110: Statement is not in a procedure.
+Name = "lblSampai"
+Error in line 1111: Statement is not in a procedure.
+Height = 23
+Error in line 1113: Statement is not in a procedure.
+Left = 15
+Error in line 1114: Statement is not in a procedure.
+TabIndex = 3
+Error in line 1115: Statement is not in a procedure.
+Top = 98
+Error in line 1116: Statement is not in a procedure.
+Width = 290
+Error in line 1117: Statement is not in a procedure.
+DisabledBackColor = 255,255,255
+Error in line 1118: Syntax error.
+ZOrderSet = 2
+Error in line 1119: Statement is not in a procedure.
+Name = "txtFileName"
+Error in line 1120: Statement is not in a procedure.
+Left = 5
+Error in line 1122: Statement is not in a procedure.
+Height = 70
+Error in line 1123: Statement is not in a procedure.
+Width = 210
+Error in line 1124: Statement is not in a procedure.
+Anchor = 3
+Error in line 1125: Statement is not in a procedure.
+ZOrderSet = 0
+Error in line 1126: Statement is not in a procedure.
+Name = "shpJenis"
+Error in line 1127: Statement is not in a procedure.
+Left = 8
+Error in line 1129: Statement is not in a procedure.
+BackColor = 185,210,240
+Error in line 1130: Syntax error.
+ZOrderSet = 3
+Error in line 1131: Statement is not in a procedure.
+Name = "Refresh_cmd1"
+Error in line 1132: Statement is not in a procedure.
+Width = 415
+Error in line 1134: Statement is not in a procedure.
+Height = 35
+Error in line 1135: Statement is not in a procedure.
+BorderWidth = 1
+Error in line 1136: Statement is not in a procedure.
+SpecialEffect = 1
+Error in line 1137: Statement is not in a procedure.
+BackColor = 185,210,240
+Error in line 1138: Syntax error.
+BorderColor = 128,128,128
+Error in line 1139: Syntax error.
+ToolTipText = "Filter data berdasarkan informasi yang akan dicari..."
+Error in line 1140: Statement is not in a procedure.
+pworkarea = .F.
+Error in line 1141: Statement is not in a procedure.
+Name = "filter_cnt"
+Error in line 1142: Statement is not in a procedure.
+Left = 5
+Error in line 1144: Statement is not in a procedure.
+Height = 125
+Error in line 1145: Statement is not in a procedure.
+Width = 340
+Error in line 1146: Statement is not in a procedure.
+BackColor = 255,255,255
+Error in line 1147: Syntax error.
+ZOrderSet = 0
+Error in line 1148: Statement is not in a procedure.
+Name = "shpPrint"
+Error in line 1149: Statement is not in a procedure.
+Width = 150
+Error in line 1151: Statement is not in a procedure.
+Height = 35
+Error in line 1152: Statement is not in a procedure.
+BorderWidth = 0
+Error in line 1153: Statement is not in a procedure.
+BackColor = 185,210,240
+Error in line 1154: Syntax error.
+BorderColor = 185,210,240
+Error in line 1155: Syntax error.
+Name = "master_amount"
+Error in line 1156: Statement is not in a procedure.
+Width = 415
+Error in line 1158: Statement is not in a procedure.
+Height = 35
+Error in line 1159: Statement is not in a procedure.
+BorderWidth = 1
+Error in line 1160: Statement is not in a procedure.
+SpecialEffect = 1
+Error in line 1161: Statement is not in a procedure.
+BackColor = 185,210,240
+Error in line 1162: Syntax error.
+BorderColor = 0,0,0
+Error in line 1163: Syntax error.
+ptable = .F.
+Error in line 1164: Statement is not in a procedure.
+pwhere = .F.
+Error in line 1165: Statement is not in a procedure.
+Name = "_search"
+Error in line 1166: Statement is not in a procedure.
+THIS.Hide()
+Error in line 1168: Statement is not in a procedure.
+NODEFAULT
+Error in line 1169: Statement is not in a procedure.
+ENDPROC
+Error in line 1170: Nesting error.
+Caption = "Tanggal"
+Error in line 1182: Statement is not in a procedure.
+Height = 18
+Error in line 1183: Statement is not in a procedure.
+Left = 34
+Error in line 1184: Statement is not in a procedure.
+Top = 25
+Error in line 1185: Statement is not in a procedure.
+Width = 48
+Error in line 1186: Statement is not in a procedure.
+TabIndex = 20
+Error in line 1187: Statement is not in a procedure.
+ZOrderSet = 1
+Error in line 1188: Statement is not in a procedure.
+Name = "lblTanggal"
+Error in line 1189: Statement is not in a procedure.
+THIS.PARENT.pDate_Finish = THIS.OBJECT.Value 
+Error in line 1191: Statement is not in a procedure.
+THISFORM.mRequery() 
+Error in line 1192: Statement is not in a procedure.
+ENDPROC
+Error in line 1193: Nesting error.
+Anchor = 3
+Error in line 1195: Statement is not in a procedure.
+Caption = "s/d"
+Error in line 1196: Statement is not in a procedure.
+Height = 18
+Error in line 1197: Statement is not in a procedure.
+Left = 221
+Error in line 1198: Statement is not in a procedure.
+Top = 6
+Error in line 1199: Statement is not in a procedure.
+Width = 25
+Error in line 1200: Statement is not in a procedure.
+ForeColor = 255,0,0
+Error in line 1201: Syntax error.
+ZOrderSet = 6
+Error in line 1202: Statement is not in a procedure.
+Name = "lblSD"
+Error in line 1203: Statement is not in a procedure.
+á
+Error in line 1206: Unrecognized command verb.
+
+Error in line 1207: Unrecognized command verb.
+±_À
+Error in line 1208: Unrecognized command verb.
+
+Error in line 1212: Unrecognized command verb.
+0
+Error in line 1213: Statement is not in a procedure.
+
+Error in line 1214: Unrecognized command verb.
+ýùAþ
+Error in line 1215: Unrecognized command verb.
+
+Error in line 1216: Unrecognized command verb.
+
+Error in line 1217: Unrecognized command verb.
+FontSize = 12
+Error in line 1221: Statement is not in a procedure.
+BackStyle = 0
+Error in line 1222: Statement is not in a procedure.
+BorderStyle = 0
+Error in line 1223: Statement is not in a procedure.
+Enabled = .F.
+Error in line 1224: Statement is not in a procedure.
+Height = 25
+Error in line 1225: Statement is not in a procedure.
+Left = 90
+Error in line 1226: Statement is not in a procedure.
+Top = 5
+Error in line 1227: Statement is not in a procedure.
+Width = 50
+Error in line 1228: Statement is not in a procedure.
+ForeColor = 128,0,64
+Error in line 1229: Syntax error.
+DisabledBackColor = 185,210,240
+Error in line 1230: Syntax error.
+DisabledForeColor = 128,0,64
+Error in line 1231: Syntax error.
+Name = "txtTotal"
+Error in line 1232: Statement is not in a procedure.
+FontSize = 12
+Error in line 1234: Statement is not in a procedure.
+Caption = "Total :"
+Error in line 1235: Statement is not in a procedure.
+Height = 21
+Error in line 1236: Statement is not in a procedure.
+Left = 5
+Error in line 1237: Statement is not in a procedure.
+Top = 7
+Error in line 1238: Statement is not in a procedure.
+ForeColor = 128,0,64
+Error in line 1239: Syntax error.
+DisabledForeColor = 128,0,64
+Error in line 1240: Syntax error.
+Name = "lbTotal"
+Error in line 1241: Statement is not in a procedure.
+Height = 375
+Error in line 1243: Statement is not in a procedure.
+Width = 600
+Error in line 1244: Statement is not in a procedure.
+DoCreate = .T.
+Error in line 1245: Statement is not in a procedure.
+AutoCenter = .T.
+Error in line 1246: Statement is not in a procedure.
+Caption = ""
+Error in line 1247: Statement is not in a procedure.
+Closable = .F.
+Error in line 1248: Statement is not in a procedure.
+MaxButton = .F.
+Error in line 1249: Statement is not in a procedure.
+MinButton = .F.
+Error in line 1250: Statement is not in a procedure.
+Icon = ..\graphics\find.ico
+Error in line 1251: Syntax error.
+WindowType = 1
+Error in line 1252: Statement is not in a procedure.
+WindowState = 0
+Error in line 1253: Statement is not in a procedure.
+AlwaysOnTop = .T.
+Error in line 1254: Statement is not in a procedure.
+Name = "browse_frm"
+Error in line 1255: Statement is not in a procedure.
+Left = 501
+Error in line 1257: Statement is not in a procedure.
+Top = 7
+Error in line 1258: Statement is not in a procedure.
+ZOrderSet = 3
+Error in line 1259: Statement is not in a procedure.
+Name = "_cmd1"
+Error in line 1260: Statement is not in a procedure.
+cmdAdd.Top = 0
+Error in line 1261: Statement is not in a procedure.
+cmdAdd.Left = 0
+Error in line 1262: Statement is not in a procedure.
+cmdAdd.Name = "cmdAdd"
+Error in line 1263: Statement is not in a procedure.
+cmdEdit.Top = 0
+Error in line 1264: Statement is not in a procedure.
+cmdEdit.Left = 72
+Error in line 1265: Statement is not in a procedure.
+cmdEdit.Name = "cmdEdit"
+Error in line 1266: Statement is not in a procedure.
+cmdDelete.Top = 0
+Error in line 1267: Statement is not in a procedure.
+cmdDelete.Left = 144
+Error in line 1268: Statement is not in a procedure.
+cmdDelete.Name = "cmdDelete"
+Error in line 1269: Statement is not in a procedure.
+Anchor = 3
+Error in line 1271: Statement is not in a procedure.
+Caption = "Tanggal Transaksi"
+Error in line 1272: Statement is not in a procedure.
+Height = 18
+Error in line 1273: Statement is not in a procedure.
+Left = 4
+Error in line 1274: Statement is not in a procedure.
+Top = 6
+Error in line 1275: Statement is not in a procedure.
+Width = 117
+Error in line 1276: Statement is not in a procedure.
+ForeColor = 255,0,0
+Error in line 1277: Syntax error.
+ZOrderSet = 7
+Error in line 1278: Statement is not in a procedure.
+Name = "lblDate"
+Error in line 1279: Statement is not in a procedure.
+LOCAL nTanggalPeiode
+Error in line 1281: Statement is not in a procedure.
+IF ISNULL(THIS.Value)
+Error in line 1283: Statement is not in a procedure.
+THIS.Value = CTOD("")
+Error in line 1284: Statement is not in a procedure.
+ENDIF 
+Error in line 1285: Statement is not in a procedure.
+IF TYPE("THIS.Value") = "C" 
+Error in line 1293: Statement is not in a procedure.
+THIS.Value = CTOD(THIS.Value)
+Error in line 1294: Statement is not in a procedure.
+ENDIF 
+Error in line 1303: Statement is not in a procedure.
+IF EMPTY(THIS.pPeriod)
+Error in line 1305: Statement is not in a procedure.
+nTanggalPeriode = gnTanggal_Periode
+Error in line 1306: Statement is not in a procedure.
+ELSE 
+Error in line 1307: Statement is not in a procedure.
+nTanggalPeriode = THIS.pPeriod
+Error in line 1308: Statement is not in a procedure.
+ENDIF 
+Error in line 1309: Statement is not in a procedure.
+IF THISFORM.pStatus = 'new'
+Error in line 1312: Statement is not in a procedure.
+IF !EMPTY(THIS.Value) 
+Error in line 1314: Statement is not in a procedure.
+IF !BETWEEN(THIS.Value,DATE() - nTanggalPeriode,DATE() + nTanggalPeriode)
+Error in line 1315: Statement is not in a procedure.
+IF MESSAGEBOX("Anda meng-INPUT tanggal "+DMY(THIS.Value)+CHR(13)+ "Lanjutkan proses ? ",32+4,ATT_CAPTION) = 6
+Error in line 1317: Statement is not in a procedure.
+ELSE 
+Error in line 1318: Statement is not in a procedure.
+THIS.Value = THIS.pDate 
+Error in line 1319: Statement is not in a procedure.
+NODEFAULT
+Error in line 1320: Statement is not in a procedure.
+ENDIF 
+Error in line 1321: Statement is not in a procedure.
+ENDIF  
+Error in line 1322: Statement is not in a procedure.
+ENDIF 	
+Error in line 1323: Statement is not in a procedure.
+ENDIF 
+Error in line 1324: Statement is not in a procedure.
+THIS.Value = DTOC(THIS.Value)
+Error in line 1325: Statement is not in a procedure.
+RETURN 1
+Error in line 1326: Statement is not in a procedure.
+ENDPROC
+Error in line 1327: Nesting error.
+ýùþ
+Error in line 1339: Unrecognized command verb.
+ýù
+Error in line 1340: Unrecognized command verb.
+
+Error in line 1341: Unrecognized command verb.
+û
+Error in line 1349: Unrecognized command verb.
+ýù#þ"
+Error in line 1350: Unrecognized command verb.
+ò
+Error in line 1356: Unrecognized command verb.
+BorderStyle = 0
+Error in line 1361: Statement is not in a procedure.
+Height = 135
+Error in line 1362: Statement is not in a procedure.
+Width = 350
+Error in line 1363: Statement is not in a procedure.
+DoCreate = .T.
+Error in line 1364: Statement is not in a procedure.
+AutoCenter = .T.
+Error in line 1365: Statement is not in a procedure.
+Caption = "Laporan "
+Error in line 1366: Statement is not in a procedure.
+MaxButton = .F.
+Error in line 1367: Statement is not in a procedure.
+MinButton = .F.
+Error in line 1368: Statement is not in a procedure.
+Icon = ..\graphics\printer.ico
+Error in line 1369: Syntax error.
+WindowState = 0
+Error in line 1370: Statement is not in a procedure.
+BackColor = 185,210,240
+Error in line 1371: Syntax error.
+preport = 
+Error in line 1372: Syntax error.
+pdirectory = .F.
+Error in line 1373: Statement is not in a procedure.
+pworkarea = .F.
+Error in line 1374: Statement is not in a procedure.
+pkertas = .F.
+Error in line 1375: Statement is not in a procedure.
+Name = "print_frm"
+Error in line 1376: Statement is not in a procedure.
+Top = 410
+Error in line 1378: Statement is not in a procedure.
+ZOrderSet = 1
+Error in line 1379: Statement is not in a procedure.
+Name = "_cmd1"
+Error in line 1380: Statement is not in a procedure.
+cmdAdd.Top = 0
+Error in line 1381: Statement is not in a procedure.
+cmdAdd.Left = 0
+Error in line 1382: Statement is not in a procedure.
+cmdAdd.Name = "cmdAdd"
+Error in line 1383: Statement is not in a procedure.
+cmdEdit.Top = 0
+Error in line 1384: Statement is not in a procedure.
+cmdEdit.Left = 72
+Error in line 1385: Statement is not in a procedure.
+cmdEdit.Name = "cmdEdit"
+Error in line 1386: Statement is not in a procedure.
+cmdDelete.Top = 0
+Error in line 1387: Statement is not in a procedure.
+cmdDelete.Left = 144
+Error in line 1388: Statement is not in a procedure.
+cmdDelete.Name = "cmdDelete"
+Error in line 1389: Statement is not in a procedure.
+¨PROCEDURE mbuilddata
+Error in line 1391: Unrecognized command verb.
+PUBLIC pcField, pcTable, pcWhere
+Error in line 1393: Statement is not in a procedure.
+pcTable = THIS.pTable
+Error in line 1394: Statement is not in a procedure.
+pcField = THIS.pField 
+Error in line 1395: Statement is not in a procedure.
+IF EMPTY(pcTable) OR EMPTY(pcField)
+Error in line 1398: Statement is not in a procedure.
+WAIT WINDOW "Property TABLE dan FIELD Kosong" NOWAIT 
+Error in line 1399: Statement is not in a procedure.
+RETURN .F.
+Error in line 1400: Statement is not in a procedure.
+ENDIF 
+Error in line 1401: Statement is not in a procedure.
+IF "'" $ LEFT(This.Text,This.SelStart)
+Error in line 1404: Statement is not in a procedure.
+pcWhere = IIF(This.pContain, 'UPPER("' + LEFT(THIS.Text,THIS.SelStart) + '") $ UPPER(' + pcField + ')', 'UPPER(' + pcField + ') = UPPER("' + LEFT(THIS.Text,THIS.SelStart) + '")')
+Error in line 1405: Statement is not in a procedure.
+ELSE
+Error in line 1406: Statement is not in a procedure.
+pcWhere = IIF(THIS.pContain, "UPPER('" + LEFT(THIS.Text,THIS.SelStart) + "') $ UPPER(" + pcField + ")", "UPPER(" + pcField + ") = UPPER('" + LEFT(THIS.Text,THIS.SelStart) + "')")
+Error in line 1407: Statement is not in a procedure.
+ENDIF
+Error in line 1408: Statement is not in a procedure.
+=fnRequery("SELECT DISTINCT "+pcField+" FROM "+pcTable+" ","_tAuto")
+Error in line 1411: Statement is not in a procedure.
+SELECT DISTINCT &pcField AS string FROM _tAuto WHERE &pcWhere ORDER BY 1 INTO CURSOR _tAutoComp
+Error in line 1413: Statement is not in a procedure.
+IF _TALLY > 0
+Error in line 1415: Statement is not in a procedure.
+THIS.mBuildList()
+Error in line 1416: Statement is not in a procedure.
+ELSE
+Error in line 1417: Statement is not in a procedure.
+THIS.mRemoveList()
+Error in line 1418: Statement is not in a procedure.
+ENDIF
+Error in line 1419: Statement is not in a procedure.
+USE IN _tAuto
+Error in line 1420: Statement is not in a procedure.
+RELEASE pcField, pcTable, pcWhere
+Error in line 1421: Statement is not in a procedure.
+ENDPROC
+Error in line 1423: Nesting error.
+Ù#
+Error in line 1497: Unrecognized command verb.
+ò
+Error in line 1499: Unrecognized command verb.
+ò$
+Error in line 1500: Unrecognized command verb.
+ýùYþ
+Error in line 1501: Unrecognized command verb.
+ð
+Error in line 1507: Unrecognized command verb.
+
+Error in line 1508: Unrecognized command verb.
+BorderStyle = 0
+Error in line 1511: Statement is not in a procedure.
+Height = 100
+Error in line 1512: Statement is not in a procedure.
+Width = 150
+Error in line 1513: Statement is not in a procedure.
+DoCreate = .T.
+Error in line 1514: Statement is not in a procedure.
+AutoCenter = .T.
+Error in line 1515: Statement is not in a procedure.
+Caption = "  Cetak"
+Error in line 1516: Statement is not in a procedure.
+ControlBox = .T.
+Error in line 1517: Statement is not in a procedure.
+MaxButton = .F.
+Error in line 1518: Statement is not in a procedure.
+MinButton = .F.
+Error in line 1519: Statement is not in a procedure.
+Icon = ..\graphics\printer.ico
+Error in line 1520: Syntax error.
+TitleBar = 1
+Error in line 1521: Statement is not in a procedure.
+WindowState = 0
+Error in line 1522: Statement is not in a procedure.
+BackColor = 130,180,250
+Error in line 1523: Syntax error.
+preport = 
+Error in line 1524: Syntax error.
+pkertas = 
+Error in line 1525: Syntax error.
+ppanjang = 0
+Error in line 1526: Statement is not in a procedure.
+plebar = 0
+Error in line 1527: Statement is not in a procedure.
+Name = "print_fak"
+Error in line 1528: Statement is not in a procedure.
+WITH THISFORM
+Error in line 1530: Statement is not in a procedure.
+LOCAL cDirektori
+Error in line 1531: Statement is not in a procedure.
+cDirektori = "'"+SYS(5)+SYS(2003)+"'"
+Error in line 1533: Statement is not in a procedure.
+.oleCommDialog.ShowSave()
+Error in line 1534: Statement is not in a procedure.
+.txtFileName.Value = thisform.oleCommDialog.FileName
+Error in line 1535: Statement is not in a procedure.
+.txtFileName.SetFocus()
+Error in line 1536: Statement is not in a procedure.
+CD &cDirektori
+Error in line 1538: Statement is not in a procedure.
+ENDWITH 
+Error in line 1539: Statement is not in a procedure.
+ENDPROC
+Error in line 1540: Nesting error.
+WITH THIS
+Error in line 1542: Statement is not in a procedure.
+LOCAL cWhere
+Error in line 1543: Statement is not in a procedure.
+STORE "" TO cWhere
+Error in line 1544: Statement is not in a procedure.
+IF !EMPTY(.Parent.txtCari.Value) 
+Error in line 1545: Statement is not in a procedure.
+cWhere = ALLTRIM(.Parent.cboField.Value) + " = '" + ALLTRIM(.Parent.txtCari.Value) + "'"
+Error in line 1546: Statement is not in a procedure.
+ENDIF  
+Error in line 1547: Statement is not in a procedure.
+THISFORM.pWhere = IIF(!EMPTY(THIS.Parent.pWhere) AND !EMPTY(cWhere),ALLTRIM(THIS.Parent.pWhere) + " " + "AND "+cWhere, cWhere)
+Error in line 1548: Statement is not in a procedure.
+THISFORM.mRequery()
+Error in line 1549: Statement is not in a procedure.
+ENDWITH 
+Error in line 1550: Statement is not in a procedure.
+ENDPROC
+Error in line 1551: Nesting error.
+Alignment = 1
+Error in line 1553: Statement is not in a procedure.
+BorderStyle = 0
+Error in line 1554: Statement is not in a procedure.
+Value = 0
+Error in line 1555: Statement is not in a procedure.
+Enabled = .F.
+Error in line 1556: Statement is not in a procedure.
+Height = 20
+Error in line 1557: Statement is not in a procedure.
+InputMask = "9,999,999.99"
+Error in line 1558: Statement is not in a procedure.
+Left = 60
+Error in line 1559: Statement is not in a procedure.
+Top = 0
+Error in line 1560: Statement is not in a procedure.
+Width = 80
+Error in line 1561: Statement is not in a procedure.
+DisabledBackColor = 185,210,240
+Error in line 1562: Syntax error.
+DisabledForeColor = 255,0,0
+Error in line 1563: Syntax error.
+Name = "txtAmountQty"
+Error in line 1564: Statement is not in a procedure.
+Anchor = 15
+Error in line 1566: Statement is not in a procedure.
+Height = 365
+Error in line 1567: Statement is not in a procedure.
+Left = 0
+Error in line 1568: Statement is not in a procedure.
+Top = 85
+Error in line 1569: Statement is not in a procedure.
+Width = 220
+Error in line 1570: Statement is not in a procedure.
+ZOrderSet = 5
+Error in line 1571: Statement is not in a procedure.
+Name = "GRD1"
+Error in line 1572: Statement is not in a procedure.
+Column1.FontName = "Tahoma"
+Error in line 1573: Statement is not in a procedure.
+Column1.FontSize = 10
+Error in line 1574: Statement is not in a procedure.
+Column1.Width = 120
+Error in line 1575: Statement is not in a procedure.
+Column1.Name = "Column1"
+Error in line 1576: Statement is not in a procedure.
+Column2.FontName = "Tahoma"
+Error in line 1577: Statement is not in a procedure.
+Column2.FontSize = 10
+Error in line 1578: Statement is not in a procedure.
+Column2.Name = "Column2"
+Error in line 1579: Statement is not in a procedure.
+Left = 0
+Error in line 1581: Statement is not in a procedure.
+Height = 450
+Error in line 1582: Statement is not in a procedure.
+Width = 220
+Error in line 1583: Statement is not in a procedure.
+DoCreate = .T.
+Error in line 1584: Statement is not in a procedure.
+Caption = "Cari"
+Error in line 1585: Statement is not in a procedure.
+MaxButton = .F.
+Error in line 1586: Statement is not in a procedure.
+MinButton = .F.
+Error in line 1587: Statement is not in a procedure.
+Icon = ..\graphics\find.ico
+Error in line 1588: Syntax error.
+WindowState = 0
+Error in line 1589: Statement is not in a procedure.
+pcommand = .F.
+Error in line 1590: Statement is not in a procedure.
+pform = .F.
+Error in line 1591: Statement is not in a procedure.
+pwhere = .F.
+Error in line 1592: Statement is not in a procedure.
+pvalidation = .F.
+Error in line 1593: Statement is not in a procedure.
+pbatal = .F.
+Error in line 1594: Statement is not in a procedure.
+pselesai = .F.
+Error in line 1595: Statement is not in a procedure.
+Name = "_brw"
+Error in line 1596: Statement is not in a procedure.
+Top = 0
+Error in line 1640: Statement is not in a procedure.
+Left = 0
+Error in line 1641: Statement is not in a procedure.
+Height = 300
+Error in line 1642: Statement is not in a procedure.
+Width = 650
+Error in line 1643: Statement is not in a procedure.
+DoCreate = .T.
+Error in line 1644: Statement is not in a procedure.
+Closable = .F.
+Error in line 1645: Statement is not in a procedure.
+MaxButton = .F.
+Error in line 1646: Statement is not in a procedure.
+Icon = ..\graphics\browse.ico
+Error in line 1647: Syntax error.
+TitleBar = 0
+Error in line 1648: Statement is not in a procedure.
+WindowState = 0
+Error in line 1649: Statement is not in a procedure.
+AlwaysOnTop = .T.
+Error in line 1650: Statement is not in a procedure.
+pcommand = .F.
+Error in line 1651: Statement is not in a procedure.
+pwhere = .F.
+Error in line 1652: Statement is not in a procedure.
+Name = "view_frm"
+Error in line 1653: Statement is not in a procedure.
+
+Error in line 1655: Unrecognized command verb.
+÷
+Error in line 1657: Unrecognized command verb.
+÷
+Error in line 1658: Unrecognized command verb.
+÷
+Error in line 1659: Unrecognized command verb.
+÷
+Error in line 1660: Unrecognized command verb.
+÷
+Error in line 1661: Unrecognized command verb.
+÷
+Error in line 1662: Unrecognized command verb.
+÷
+Error in line 1663: Unrecognized command verb.
+÷
+Error in line 1664: Unrecognized command verb.
+÷
+Error in line 1665: Unrecognized command verb.
+÷
+Error in line 1666: Unrecognized command verb.
+÷
+Error in line 1667: Unrecognized command verb.
+÷
+Error in line 1668: Unrecognized command verb.
+÷
+Error in line 1670: Unrecognized command verb.
+ô
+Error in line 1671: Unrecognized command verb.
+÷
+Error in line 1672: Unrecognized command verb.
+ô
+Error in line 1673: Unrecognized command verb.
+÷
+Error in line 1674: Unrecognized command verb.
+÷
+Error in line 1675: Unrecognized command verb.
+ô
+Error in line 1676: Unrecognized command verb.
+÷
+Error in line 1678: Unrecognized command verb.
+÷
+Error in line 1679: Unrecognized command verb.
+÷
+Error in line 1680: Unrecognized command verb.
+÷
+Error in line 1681: Unrecognized command verb.
+÷
+Error in line 1682: Unrecognized command verb.
+÷
+Error in line 1684: Unrecognized command verb.
+÷
+Error in line 1685: Unrecognized command verb.
+÷
+Error in line 1686: Unrecognized command verb.
+÷
+Error in line 1687: Unrecognized command verb.
+÷
+Error in line 1688: Unrecognized command verb.
+÷
+Error in line 1689: Unrecognized command verb.
+÷
+Error in line 1690: Unrecognized command verb.
+÷
+Error in line 1691: Unrecognized command verb.
+÷
+Error in line 1693: Unrecognized command verb.
+÷
+Error in line 1694: Unrecognized command verb.
+÷
+Error in line 1695: Unrecognized command verb.
+÷
+Error in line 1696: Unrecognized command verb.
+÷	
+Error in line 1697: Unrecognized command verb.
+÷	
+Error in line 1699: Unrecognized command verb.
+÷
+Error in line 1701: Unrecognized command verb.
+÷	
+Error in line 1703: Unrecognized command verb.
+÷
+Error in line 1704: Unrecognized command verb.
+÷
+Error in line 1706: Unrecognized command verb.
+÷
+Error in line 1707: Unrecognized command verb.
+÷
+Error in line 1708: Unrecognized command verb.
+÷
+Error in line 1710: Unrecognized command verb.
+÷
+Error in line 1712: Unrecognized command verb.
+÷
+Error in line 1713: Unrecognized command verb.
+÷
+Error in line 1714: Unrecognized command verb.
+÷
+Error in line 1716: Unrecognized command verb.
+÷
+Error in line 1717: Unrecognized command verb.
+÷
+Error in line 1718: Unrecognized command verb.
+÷
+Error in line 1720: Unrecognized command verb.
+÷
+Error in line 1721: Unrecognized command verb.
+÷
+Error in line 1723: Unrecognized command verb.
+÷
+Error in line 1724: Unrecognized command verb.
+÷
+Error in line 1726: Unrecognized command verb.
+÷
+Error in line 1728: Unrecognized command verb.
+÷
+Error in line 1729: Unrecognized command verb.
+ýù@
+Error in line 1732: Unrecognized command verb.
+ð
+Error in line 1734: Unrecognized command verb.
+
+Error in line 1736: Unrecognized command verb.
+ñ
+Error in line 1737: Unrecognized command verb.
+Ù#
+Error in line 1740: Unrecognized command verb.
+ýù2þ
+Error in line 1743: Unrecognized command verb.
+ýùgþ
+Error in line 1745: Unrecognized command verb.
+LOCAL cColumn
+Error in line 1750: Statement is not in a procedure.
+cColumn = this._date_column
+Error in line 1752: Statement is not in a procedure.
+IF !EMPTY(cColumn) THEN	
+Error in line 1754: Statement is not in a procedure.
+THIS.Day = DAY(cColumn)
+Error in line 1755: Statement is not in a procedure.
+THIS.Month = MONTH(cColumn)
+Error in line 1756: Statement is not in a procedure.
+THIS.Year = YEAR(cColumn)	
+Error in line 1757: Statement is not in a procedure.
+ENDIF
+Error in line 1758: Statement is not in a procedure.
+ENDPROC
+Error in line 1759: Nesting error.
+ð
+Error in line 1796: Unrecognized command verb.
+ð
+Error in line 1798: Unrecognized command verb.
+ð
+Error in line 1799: Unrecognized command verb.
+ð
+Error in line 1800: Unrecognized command verb.
+
+Error in line 1803: Unrecognized command verb.
+
+Error in line 1804: Unrecognized command verb.
+
+Error in line 1805: Unrecognized command verb.
+ð
+Error in line 1807: Unrecognized command verb.
+ð
+Error in line 1809: Unrecognized command verb.
+ð
+Error in line 1810: Unrecognized command verb.
+ð
+Error in line 1811: Unrecognized command verb.
+ýùZþ
+Error in line 1812: Unrecognized command verb.
+
+Error in line 1815: Unrecognized command verb.
+ð
+Error in line 1820: Unrecognized command verb.
+ð
+Error in line 1821: Unrecognized command verb.
+ýù¹
+Error in line 1822: Unrecognized command verb.
+ýùŽþ
+Error in line 1823: Unrecognized command verb.
+ýùþ1
+Error in line 1824: Unrecognized command verb.
+
+Error in line 1825: Unrecognized command verb.
+ýùRþ"
+Error in line 1832: Unrecognized command verb.
+ø
+Error in line 1841: Unrecognized command verb.
+ø
+Error in line 1842: Unrecognized command verb.
+ýùÊ
+Error in line 1856: Unrecognized command verb.
+ýùgþ
+Error in line 1858: Unrecognized command verb.
+ð
+Error in line 1860: Unrecognized command verb.
+ð
+Error in line 1861: Unrecognized command verb.
+ýù¿þ
+Error in line 1862: Unrecognized command verb.
+ýùãþ
+Error in line 1864: Unrecognized command verb.
+pcaption Data untuk Caption Form Browse
+Error in line 1871: Unrecognized command verb.
+pfields Source Field untuk Form Browse
+Error in line 1872: Unrecognized command verb.
+porder Order untuk Form Grid
+Error in line 1873: Unrecognized command verb.
+pseekfield Cari field untuk Form Browse
+Error in line 1874: Unrecognized command verb.
+ptitle Title untuk Form Browse
+Error in line 1875: Unrecognized command verb.
+ptable Source table untuk Form Browse
+Error in line 1876: Unrecognized command verb.
+pwhere Where condition untuk grid Form Browse
+Error in line 1877: Unrecognized command verb.
+ptarget Cursor yang akan diINSERT
+Error in line 1878: Unrecognized command verb.
+ð	
+Error in line 1881: Unrecognized command verb.

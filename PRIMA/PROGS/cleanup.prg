@@ -1,0 +1,17 @@
+CLEAR EVENTS
+CLEAR WINDOWS
+CLEAR MENUS
+CLEAR POPUP
+CLEAR DLLS 
+RELEASE ALL EXTENDED
+POP MENU _msysmenu
+SET SYSMENU TO DEFAULT
+
+** 081112 - Tutup Koneksi
+IF _SCREEN.pConnection > 0
+	=SQLDISCONNECT(_SCREEN.pConnection)
+ENDIF 
+
+DECLARE ExitProcess IN "kernel32" as ExitProcess long
+ExitProcess(10)
+QUIT()

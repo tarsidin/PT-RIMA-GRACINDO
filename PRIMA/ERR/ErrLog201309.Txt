@@ -1,0 +1,12 @@
+
+27/09/2013 12:40:20 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'Satuan_id', table 'cave.dbo.Produk_satuan'; column
+does not allow nulls. INSERT fails.
+30/09/2013 14:59:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+30/09/2013 15:00:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+30/09/2013 15:01:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+30/09/2013 15:02:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+30/09/2013 15:03:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.

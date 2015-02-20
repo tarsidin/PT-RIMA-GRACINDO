@@ -1,0 +1,53 @@
+
+03/02/2015 15:18:20 - User ID : sysAdmin - Error No.   :        125,Error Message : Printer is not ready.
+04/02/2015 08:47:32 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+05/02/2015 14:10:16 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+05/02/2015 14:11:01 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+06/02/2015 10:57:17 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+06/02/2015 10:58:38 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+06/02/2015 10:59:32 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+06/02/2015 11:00:41 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+06/02/2015 11:02:29 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+06/02/2015 11:03:07 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+06/02/2015 11:03:33 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+06/02/2015 11:04:07 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+06/02/2015 11:04:42 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+06/02/2015 11:06:58 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+06/02/2015 11:19:58 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitas_terima'.
+11/02/2015 09:12:46 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+11/02/2015 09:12:59 - User ID : sysAdmin - Error No.   :       1466,Error Message : Connection handle is invalid.
+11/02/2015 09:13:13 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'Pakai_No', table 'prima02022015.dbo.Pakai'; column
+does not allow nulls. INSERT fails.
+11/02/2015 09:15:04 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+11/02/2015 09:15:17 - User ID : sysAdmin - Error No.   :       1466,Error Message : Connection handle is invalid.
+11/02/2015 09:15:31 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'Pakai_No', table 'prima02022015.dbo.Pakai'; column
+does not allow nulls. INSERT fails.
+11/02/2015 09:16:29 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+11/02/2015 09:16:42 - User ID : sysAdmin - Error No.   :       1466,Error Message : Connection handle is invalid.
+11/02/2015 09:16:56 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'Pakai_No', table 'prima02022015.dbo.Pakai'; column
+does not allow nulls. INSERT fails.
+11/02/2015 09:17:11 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+11/02/2015 09:17:25 - User ID : sysAdmin - Error No.   :       1466,Error Message : Connection handle is invalid.
+11/02/2015 09:17:38 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'Pakai_No', table 'prima02022015.dbo.Pakai'; column
+does not allow nulls. INSERT fails.
+11/02/2015 09:26:13 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+11/02/2015 09:26:35 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+11/02/2015 09:26:43 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+17/02/2015 13:37:14 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+17/02/2015 13:37:23 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.

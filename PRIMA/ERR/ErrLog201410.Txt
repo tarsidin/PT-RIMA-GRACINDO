@@ -1,0 +1,4 @@
+
+30/10/2014 14:03:40 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+30/10/2014 14:13:10 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Divide by zero error encountered.
+30/10/2014 14:43:20 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Ukuran' with unique index 'IX_Ukuran'.

@@ -1,0 +1,1125 @@
+
+03/01/2014 08:21:54 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+03/01/2014 08:21:56 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+03/01/2014 08:26:39 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+03/01/2014 08:26:41 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+03/01/2014 08:29:22 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+03/01/2014 08:32:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produk'.
+03/01/2014 08:33:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'jenis_id'.
+03/01/2014 08:33:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'jenis_id'.
+03/01/2014 10:05:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produk_id2'.
+03/01/2014 10:05:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produk_id2'.
+03/01/2014 13:10:01 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'chk_po'.
+03/01/2014 13:18:54 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+03/01/2014 15:04:46 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'user_ch', table 'Prima.dbo.terimaP2_detail'; column
+does not allow nulls. INSERT fails.
+03/01/2014 15:10:20 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_TerimaP_Detail'. Cannot insert duplicate key in object
+'dbo.TerimaP_Detail'.
+03/01/2014 15:10:34 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_TerimaP_Detail'. Cannot insert duplicate key in object
+'dbo.TerimaP_Detail'.
+03/01/2014 15:15:47 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]The INSERT statement conflicted
+with the FOREIGN KEY constraint
+"FK_mutasi_detail_gdorder_detail". The conflict occurred in
+database "Prima", table "dbo.gdorder_detail", column
+'Gdorder_De
+04/01/2014 11:46:14 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'batal'.
+04/01/2014 11:46:23 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'batal'.
+04/01/2014 11:46:38 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'batal'.
+04/01/2014 11:46:44 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'batal'.
+04/01/2014 11:47:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'batal'.
+06/01/2014 10:42:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Cabang_id'.
+06/01/2014 10:42:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Cabang_id'.
+06/01/2014 10:43:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:44:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:44:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:51:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:52:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:52:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:56:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:56:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:58:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:58:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:58:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 10:58:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:06:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:07:10 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:07:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:07:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:08:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:08:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:08:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:10:10 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:16:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:16:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:16:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:17:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:18:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:18:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:19:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:19:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:19:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:20:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:20:12 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:24:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 11:24:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Error converting data type varchar to float.
+06/01/2014 13:24:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_kode'.
+06/01/2014 13:24:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_kode'.
+06/01/2014 13:26:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_kode'.
+06/01/2014 13:26:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_kode'.
+06/01/2014 13:27:37 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_so_detail'. Cannot insert duplicate key in object
+'dbo.SO_Detail'.
+06/01/2014 13:53:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Uang_id'.
+06/01/2014 13:54:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Uang_id'.
+06/01/2014 14:05:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Uang'.
+06/01/2014 14:22:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'uang'.
+06/01/2014 14:23:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'total1'.
+06/01/2014 14:23:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'total1'.
+06/01/2014 14:24:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'total1'.
+06/01/2014 14:24:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'total1'.
+06/01/2014 14:25:37 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+06/01/2014 15:29:31 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'No_po'.
+06/01/2014 15:30:44 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'No_po'.
+06/01/2014 15:33:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'No_po'.
+06/01/2014 16:14:29 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+06/01/2014 16:14:53 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'dari'.
+06/01/2014 16:15:33 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'dari'.
+06/01/2014 16:19:52 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+06/01/2014 16:20:06 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+06/01/2014 16:21:28 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'dari'.
+06/01/2014 16:22:24 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'dari'.
+07/01/2014 08:41:46 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+07/01/2014 08:44:16 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+07/01/2014 08:44:33 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+07/01/2014 09:02:11 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'dari'.
+07/01/2014 09:02:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'dari'.
+07/01/2014 09:05:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'dari'.
+07/01/2014 09:10:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'TerimaP_no'.
+07/01/2014 10:11:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pajak'.
+07/01/2014 10:13:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan'.
+07/01/2014 11:52:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 11:52:24 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 11:53:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 11:53:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 11:54:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 11:54:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 11:54:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pesan_no'.
+07/01/2014 11:54:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 11:55:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 11:55:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 11:56:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pesan_no'.
+07/01/2014 11:56:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 12:00:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 12:00:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 12:05:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 12:05:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 12:15:24 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pesan_no'.
+07/01/2014 12:15:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 12:15:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pesan_no'.
+07/01/2014 12:15:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 12:15:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pesan_no'.
+07/01/2014 12:15:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 12:15:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pesan_no'.
+07/01/2014 12:15:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 12:17:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pesan_no'.
+07/01/2014 12:17:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 12:17:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pesan_no'.
+07/01/2014 12:17:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 13:26:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 13:26:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+07/01/2014 13:26:24 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:26:39 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:26:42 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:26:48 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:26:53 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:26:57 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:00 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:04 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:06 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:12 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:18 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:19 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:20 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:20 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:21 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:22 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:27:24 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+07/01/2014 13:29:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kuantitasb'.
+07/01/2014 16:02:27 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Cabang_id'.
+07/01/2014 16:03:16 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Uang_id'.
+07/01/2014 16:03:24 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Uang_id'.
+08/01/2014 08:49:13 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'sales_nama'.
+08/01/2014 08:49:20 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'sales_nama'.
+08/01/2014 08:50:20 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'sales_Kode'.
+08/01/2014 08:50:51 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'sisa'.
+08/01/2014 08:51:14 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'nama_merk'.
+08/01/2014 08:51:37 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kode_satuan'.
+08/01/2014 08:52:06 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'konversi1'.
+08/01/2014 08:52:12 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'konversi1'.
+08/01/2014 08:52:29 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'no_po'.
+08/01/2014 08:53:03 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'warna1'.
+08/01/2014 08:53:25 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tempqtyproduk'.
+08/01/2014 08:55:22 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'total1'.
+08/01/2014 08:56:02 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'total1'.
+08/01/2014 09:08:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga_bl'.
+08/01/2014 09:08:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga_bl'.
+08/01/2014 09:08:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga_bl'.
+08/01/2014 09:09:12 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga_bl'.
+08/01/2014 09:09:12 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga_bl'.
+08/01/2014 09:09:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga_bl'.
+08/01/2014 09:09:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga_bl'.
+08/01/2014 09:09:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga_bl'.
+08/01/2014 09:30:52 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_Jual_Detail'. Cannot insert duplicate key in object
+'dbo.Jual_Detail'.
+08/01/2014 09:31:23 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_Jual_Detail'. Cannot insert duplicate key in object
+'dbo.Jual_Detail'.
+08/01/2014 09:32:02 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_Jual_Detail'. Cannot insert duplicate key in object
+'dbo.Jual_Detail'.
+08/01/2014 09:32:35 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_Jual_Detail'. Cannot insert duplicate key in object
+'dbo.Jual_Detail'.
+08/01/2014 09:34:06 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+08/01/2014 13:22:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Qty_harga'.
+08/01/2014 13:22:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kirim_no'.
+08/01/2014 13:24:09 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'konsumen_id'.
+08/01/2014 13:26:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'konsumen_id'.
+08/01/2014 13:49:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near ','.
+08/01/2014 13:54:26 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'Kirim_detail.jual_no' is
+invalid in the select list because it is not contained in
+either an aggregate function or the GROUP BY clause.
+08/01/2014 13:59:19 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Column 'Jual.Jual_No' is invalid in
+the select list because it is not contained in either an
+aggregate function or the GROUP BY clause.
+08/01/2014 14:04:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'as'.
+08/01/2014 14:04:46 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+08/01/2014 14:05:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'as'.
+08/01/2014 14:05:23 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+08/01/2014 14:09:08 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+08/01/2014 14:09:11 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+08/01/2014 14:11:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kirim_no'.
+08/01/2014 14:11:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kirim_no'.
+08/01/2014 14:14:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kirim_no'.
+08/01/2014 14:16:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kirim_no'.
+08/01/2014 14:17:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kirim_no'.
+08/01/2014 16:20:54 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'Tipe'.
+08/01/2014 16:21:08 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'Tipe'.
+08/01/2014 16:27:13 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'Tipe'.
+08/01/2014 16:27:21 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'Tipe'.
+09/01/2014 09:16:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'alamat'.
+09/01/2014 09:24:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'alamat'.
+09/01/2014 12:01:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'termin'.
+09/01/2014 12:01:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'termin'.
+09/01/2014 12:02:09 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name '+ALLTRIM(STR(THISFORM.chkInternal.value))+'.
+09/01/2014 13:26:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name '+ALLTRIM(STR(THISFORM.chkInternal.value))+'.
+09/01/2014 15:40:27 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'alamat'.
+10/01/2014 08:42:32 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'alamat'.
+10/01/2014 09:51:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'qty_jual'.
+10/01/2014 09:51:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'qty_jual'.
+10/01/2014 10:36:24 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'ORDER'.
+10/01/2014 10:39:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'ORDER'.
+10/01/2014 10:40:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'ORDER'.
+10/01/2014 10:43:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'ORDER'.
+10/01/2014 10:43:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'WHERE'.
+10/01/2014 10:44:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'WHERE'.
+10/01/2014 10:44:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 10:44:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 10:45:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'WHERE'.
+10/01/2014 10:45:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 10:45:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 10:46:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'WHERE'.
+10/01/2014 10:47:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'WHERE'.
+10/01/2014 10:47:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'WHERE'.
+10/01/2014 10:49:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'WHERE'.
+10/01/2014 10:52:24 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'WHERE'.
+10/01/2014 10:52:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'WHERE'.
+10/01/2014 10:55:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'WHERE'.
+10/01/2014 11:06:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'ORDER'.
+10/01/2014 11:06:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 11:06:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 11:06:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 11:14:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 11:14:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 11:14:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 11:16:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 's'.
+10/01/2014 11:17:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 's'.
+10/01/2014 11:22:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 's'.
+10/01/2014 11:52:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 11:52:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "s.kode" could not be bound.
+10/01/2014 12:04:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'qty_jual'.
+10/01/2014 12:05:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'qty_jual'.
+10/01/2014 12:50:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kode'.
+10/01/2014 12:50:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kode'.
+10/01/2014 12:53:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'dt'.
+10/01/2014 12:53:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'dt'.
+10/01/2014 12:54:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_id2'.
+10/01/2014 12:54:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_id2'.
+10/01/2014 12:54:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_id2'.
+10/01/2014 12:54:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_id2'.
+10/01/2014 12:55:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_id2'.
+10/01/2014 12:55:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_id2'.
+10/01/2014 12:58:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'SATUAN_KODE2'.
+10/01/2014 13:53:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_kode2'.
+10/01/2014 13:54:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_kode2'.
+10/01/2014 13:57:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_kode2'.
+10/01/2014 13:58:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_kode2'.
+10/01/2014 13:59:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_kode2'.
+10/01/2014 14:01:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_kode2'.
+10/01/2014 14:02:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_kode2'.
+10/01/2014 14:02:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_kode2'.
+10/01/2014 14:15:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_kode2'.
+10/01/2014 14:18:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'satuan_id1'.
+10/01/2014 14:37:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'qty'.
+10/01/2014 14:52:12 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'mt'.
+10/01/2014 15:12:16 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+10/01/2014 15:12:17 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+10/01/2014 15:12:18 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+10/01/2014 15:12:18 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+10/01/2014 15:12:19 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+10/01/2014 15:12:22 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+10/01/2014 15:12:23 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+10/01/2014 15:12:23 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+10/01/2014 15:12:24 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+10/01/2014 15:12:24 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_kirim_detail'. Cannot insert duplicate key in object
+'dbo.kirim_detail'.
+10/01/2014 15:36:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'alamat'.
+10/01/2014 15:36:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'alamat'.
+10/01/2014 15:37:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'alamat'.
+10/01/2014 15:40:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'alamat'.
+10/01/2014 15:42:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "a.cnilai" could not be bound.
+10/01/2014 15:42:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "a.cnilai" could not be bound.
+11/01/2014 09:26:44 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produk_id2'.
+11/01/2014 09:30:05 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'produk_id2'.
+11/01/2014 09:49:56 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+11/01/2014 09:51:31 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+11/01/2014 11:42:30 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Column name or number of supplied values does not match table definition.
+11/01/2014 11:42:31 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'Where'.
+11/01/2014 12:08:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:09:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:09:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:09:48 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:10:16 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:10:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:11:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:14:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:14:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:15:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:15:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:16:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:20:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:21:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:21:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:31:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:31:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:32:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:32:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:33:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:34:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:34:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:34:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:34:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:38:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:38:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:38:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:38:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:39:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:39:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:39:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:39:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+11/01/2014 12:40:02 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+13/01/2014 08:30:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+13/01/2014 09:02:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+13/01/2014 09:02:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'terima_no'.
+13/01/2014 11:50:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Qty_jual'.
+13/01/2014 11:50:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Qty_jual'.
+13/01/2014 12:32:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+13/01/2014 12:32:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+13/01/2014 12:32:24 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+13/01/2014 12:32:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'kuantitasb'.
+13/01/2014 12:32:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'kuantitasb'.
+13/01/2014 12:33:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Ambiguous column name 'kuantitasb'.
+13/01/2014 14:40:52 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'user_ch', table 'Prima140109.dbo.terimaP2_detail';
+column does not allow nulls. INSERT fails.
+13/01/2014 14:41:47 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Violation of PRIMARY KEY constraint
+'PK_TerimaP_Detail'. Cannot insert duplicate key in object
+'dbo.TerimaP_Detail'.
+13/01/2014 15:50:50 - User ID : sysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'user_ch', table 'Prima140113.dbo.terimaP2_detail';
+column does not allow nulls. INSERT fails.
+16/01/2014 16:04:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'from'.
+16/01/2014 16:04:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kode'.
+16/01/2014 16:05:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'kode'.
+17/01/2014 08:38:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'angkutan_id'.
+17/01/2014 08:38:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'angkutan_id'.
+17/01/2014 08:39:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'angkutan_id'.
+17/01/2014 09:42:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Angkutan_nama'.
+17/01/2014 09:43:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Angkutan_nama'.
+17/01/2014 09:43:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Angkutan_nama'.
+17/01/2014 09:45:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Angkutan_nama'.
+17/01/2014 09:48:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Angkutan_nama'.
+17/01/2014 09:48:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Angkutan_nama'.
+17/01/2014 09:54:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Angkutan_nama'.
+17/01/2014 10:03:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Angkutan_kode'.
+17/01/2014 10:05:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The correlation name 'a' is specified multiple times in a FROM clause.
+18/01/2014 08:28:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ukuran'.
+18/01/2014 08:36:17 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]There are fewer columns in the
+INSERT statement than values specified in the VALUES clause.
+The number of values in the VALUES clause must match the
+number of columns specified in the INSE
+18/01/2014 08:36:35 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]There are fewer columns in the
+INSERT statement than values specified in the VALUES clause.
+The number of values in the VALUES clause must match the
+number of columns specified in the INSE
+18/01/2014 08:41:31 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]There are fewer columns in the
+INSERT statement than values specified in the VALUES clause.
+The number of values in the VALUES clause must match the
+number of columns specified in the INSE
+18/01/2014 08:41:55 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]There are fewer columns in the
+INSERT statement than values specified in the VALUES clause.
+The number of values in the VALUES clause must match the
+number of columns specified in the INSE
+18/01/2014 08:42:09 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]There are fewer columns in the
+INSERT statement than values specified in the VALUES clause.
+The number of values in the VALUES clause must match the
+number of columns specified in the INSE
+18/01/2014 08:44:03 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]There are fewer columns in the
+INSERT statement than values specified in the VALUES clause.
+The number of values in the VALUES clause must match the
+number of columns specified in the INSE
+18/01/2014 08:45:47 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]There are fewer columns in the
+INSERT statement than values specified in the VALUES clause.
+The number of values in the VALUES clause must match the
+number of columns specified in the INSE
+18/01/2014 09:01:09 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'is'.
+18/01/2014 09:32:11 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Conversion failed when converting
+the varchar value '35/25x30x0.4
+' to data type int.
+18/01/2014 09:32:29 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Conversion failed when converting
+the varchar value '35/25x30x0.4
+' to data type int.
+18/01/2014 09:59:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18/01/2014 11:48:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+18/01/2014 11:49:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+20/01/2014 10:21:03 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 10:24:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'txtKategori_id'.
+20/01/2014 10:28:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'txtKategori_id'.
+20/01/2014 10:40:47 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 11:02:55 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 11:14:31 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 11:17:15 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 11:20:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 11:21:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 11:23:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 11:25:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 11:46:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 11:49:18 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+20/01/2014 11:51:18 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+20/01/2014 13:05:08 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Kategori_id'.
+20/01/2014 13:08:42 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+20/01/2014 15:19:36 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+20/01/2014 15:21:17 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+20/01/2014 15:22:01 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+20/01/2014 15:27:52 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+21/01/2014 08:27:18 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+21/01/2014 09:27:28 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+21/01/2014 09:45:51 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+21/01/2014 09:48:59 - User ID : sysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+21/01/2014 09:52:44 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+21/01/2014 09:59:05 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+21/01/2014 10:04:21 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+21/01/2014 10:12:49 - User ID : SysAdmin - Error No.   :       1472,Error Message : SQL statement parameter is required for non-prepared SQLEXEC() calls.
+21/01/2014 13:26:21 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+22/01/2014 10:27:14 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+22/01/2014 10:27:20 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+22/01/2014 10:31:33 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+22/01/2014 10:31:37 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+23/01/2014 11:13:42 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+23/01/2014 11:20:06 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+23/01/2014 11:20:52 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+23/01/2014 11:25:33 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+23/01/2014 11:37:28 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+23/01/2014 11:38:50 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+23/01/2014 11:41:50 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 10:28:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabangNama'.
+24/01/2014 15:02:33 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 15:06:20 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 15:14:15 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 15:17:50 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 15:20:18 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 15:21:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 16:23:18 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 16:23:21 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 16:23:22 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 16:23:22 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+24/01/2014 16:23:23 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 08:40:20 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 08:40:21 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 08:40:22 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 08:40:51 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 08:40:51 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 08:40:52 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 08:42:57 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:09:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:09:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:10:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:11:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:11:27 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:11:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:11:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:11:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:13:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:13:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:13:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:13:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:16:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:21:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:21:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:27:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:27:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:27:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:27:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:30:09 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:30:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:30:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:30:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:31:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:32:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:33:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:34:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:37:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:37:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:37:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:37:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:37:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:39:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:53:39 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:53:39 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:56:31 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:59:20 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:59:25 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 09:59:31 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:08:16 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:08:21 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:29:03 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:29:04 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:29:04 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:29:05 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:29:05 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:29:08 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:32:16 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:32:22 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:32:25 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:33:29 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+25/01/2014 10:34:19 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot insert duplicate key row in object 'dbo.Produk' with unique index 'IX_Produk_1'.
+28/01/2014 15:25:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_id'.
+28/01/2014 15:25:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'cabang_id'.
+28/01/2014 16:09:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:49 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:09:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:11:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:13:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:17:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:12 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:19:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:22:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:25:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:26:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:27:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:29:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:30:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:15 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:31:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:32:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:35:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pengguna_id'.
+28/01/2014 16:35:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pengguna_id'.
+28/01/2014 16:35:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pengguna_id'.
+28/01/2014 16:35:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pengguna_id'.
+28/01/2014 16:35:54 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+28/01/2014 16:35:59 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+28/01/2014 16:36:10 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+28/01/2014 16:36:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'pengguna_id'.
+28/01/2014 16:36:44 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+28/01/2014 16:38:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:38:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:42:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+28/01/2014 16:44:24 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:42:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:50:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:51:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:52:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 08:54:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Pengguna_ID'.
+29/01/2014 09:26:09 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:12 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:15 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:16 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:17 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:17 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:19 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:22 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+29/01/2014 09:26:22 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:25 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:26 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:29 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:26:30 - User ID : SysAdmin - Error No.   :
+1526,
+Error Message : Connectivity error: [Microsoft][ODBC SQL
+Server Driver][SQL Server]Cannot insert the value NULL into
+column 'transfer', table 'Prima140128.dbo.pemakai_detail';
+column does not allow nulls. INSERT fails.
+29/01/2014 09:28:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+29/01/2014 09:28:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+29/01/2014 09:37:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+29/01/2014 09:37:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+29/01/2014 13:43:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]'IFNULL' is not a recognized built-in function name.
+29/01/2014 13:43:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]'IFNULL' is not a recognized built-in function name.
+29/01/2014 13:44:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]'IFNULL' is not a recognized built-in function name.
+29/01/2014 13:44:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]'IFNULL' is not a recognized built-in function name.
+29/01/2014 13:45:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]'IFNULL' is not a recognized built-in function name.
+29/01/2014 13:45:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]'IFNULL' is not a recognized built-in function name.
+29/01/2014 13:46:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]'IFNULL' is not a recognized built-in function name.
+29/01/2014 13:46:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]'IFNULL' is not a recognized built-in function name.
+29/01/2014 13:47:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "p.Konsumen_id" could not be bound.
+29/01/2014 13:47:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "p.Konsumen_id" could not be bound.
+29/01/2014 13:48:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'jual_tgl'.
+29/01/2014 13:48:29 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'jual_tgl'.
+29/01/2014 13:48:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'saldo'.
+29/01/2014 13:49:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'saldo'.
+29/01/2014 13:50:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'faktur_no'.
+29/01/2014 13:50:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'total'.
+29/01/2014 14:05:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.harga" could not be bound.
+29/01/2014 14:13:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga'.
+29/01/2014 14:14:07 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga'.
+29/01/2014 14:15:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'harga'.
+29/01/2014 14:20:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'faktur'.
+29/01/2014 14:23:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:23:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:23:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:24:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:25:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:25:58 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:30:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'kirim'.
+29/01/2014 14:31:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:32:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:34:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:34:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:40:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near ','.
+29/01/2014 14:46:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:47:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:50:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:50:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:50:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:51:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:51:02 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:51:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:51:09 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:51:56 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:51:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:53:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:53:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:54:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:55:20 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:55:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:55:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:55:46 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 14:55:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near the keyword 'FROM'.
+29/01/2014 16:16:35 - User ID : sysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near ','.
+30/01/2014 09:29:31 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:29:34 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:31:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:31:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:35:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:35:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:37:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:37:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:40:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:40:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:41:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:41:21 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:44:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:45:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:51:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 09:51:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 10:22:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:23:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:23:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:27:44 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:27:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:27:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:28:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 10:28:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.kirim_no" could not be bound.
+30/01/2014 10:29:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:31:39 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:37:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:38:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:43:04 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:43:38 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:44:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]The multi-part identifier "dt.produk_id" could not be bound.
+30/01/2014 10:50:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'total'.
+30/01/2014 13:34:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'ket'.
+30/01/2014 14:57:55 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+30/01/2014 14:57:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'Perkiraan'.
+30/01/2014 14:57:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'perkiraan'.
+30/01/2014 14:58:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'Perkiraan'.
+30/01/2014 16:02:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:02:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:02:17 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:03:24 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+30/01/2014 16:04:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:07:09 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+30/01/2014 16:07:11 - User ID : SysAdmin - Error No.   :       1523,Error Message : Execution was canceled by the user.
+30/01/2014 16:07:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:09:16 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:09:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:09:25 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:09:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:10:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:10:03 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:10:05 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:10:18 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:10:23 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:10:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:10:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:10:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:10:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:10:54 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:11:26 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:11:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:11:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:11:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:11:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'tanggal'.
+30/01/2014 16:12:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'jbayar_no'.
+30/01/2014 16:12:40 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'jbayar_no'.
+30/01/2014 16:12:42 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'jbayar_no'.
+30/01/2014 16:12:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'jbayar_no'.
+30/01/2014 16:13:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'sumber'.
+30/01/2014 16:13:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'sumber'.
+30/01/2014 16:13:50 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'sumber'.
+30/01/2014 16:13:59 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'sumber'.
+30/01/2014 16:14:57 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'keterangan'.
+30/01/2014 16:15:00 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'keterangan'.
+30/01/2014 16:15:01 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'keterangan'.
+30/01/2014 16:15:08 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'keterangan'.
+30/01/2014 16:15:51 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'faktur_no'.
+30/01/2014 16:15:53 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'faktur_no'.
+30/01/2014 16:15:55 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'faktur_no'.
+30/01/2014 16:16:06 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'faktur_no'.
+30/01/2014 16:16:33 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'bukti_no'.
+30/01/2014 16:16:35 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'bukti_no'.
+30/01/2014 16:16:37 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'bukti_no'.
+30/01/2014 16:16:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'bukti_no'.
+30/01/2014 16:17:28 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'debet'.
+30/01/2014 16:17:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'debet'.
+30/01/2014 16:17:32 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'debet'.
+30/01/2014 16:17:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'debet'.
+30/01/2014 16:18:43 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lawan_id'.
+30/01/2014 16:18:45 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lawan_id'.
+30/01/2014 16:18:47 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lawan_id'.
+30/01/2014 16:18:52 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lawan_id'.
+30/01/2014 16:19:11 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'validasi'.
+30/01/2014 16:19:13 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'validasi'.
+30/01/2014 16:19:14 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'validasi'.
+30/01/2014 16:19:19 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'validasi'.
+30/01/2014 16:20:30 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Giro_no'.
+30/01/2014 16:20:36 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Giro_no'.
+30/01/2014 16:20:41 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Giro_no'.
+30/01/2014 16:20:48 - User ID : SysAdmin - Error No.   :       1526,Error Message : Connectivity error: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'Giro_no'.

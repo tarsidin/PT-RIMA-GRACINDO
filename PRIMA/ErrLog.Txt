@@ -1,0 +1,8 @@
+
+11/11/2014 08:33:35 - User ID : SysAdmin - Error No.   : 102 -- fnConnection,Error Message : Tidak Dapat Koneksi
+11/11/2014 08:33:36 - User ID : SysAdmin - Error No.   : 001 -- Aturan,Error Message : Tidak Dapat Koneksi
+26/01/2015 15:23:53 - User ID : SysAdmin - Error No.   : 001 -- Init,Error Message : Tidak Dapat Koneksi
+02/05/2015 08:41:05 - User ID : SysAdmin - Error No.   : 001 -- Init,Error Message : Tidak Dapat Koneksi
+02/12/2015 08:12:43 - User ID : SysAdmin - Error No.   : 001 -- Init,Error Message : Tidak Dapat Koneksi
+02/13/2015 15:38:05 - User ID : SysAdmin - Error No.   : 001 -- Init,Error Message : Tidak Dapat Koneksi
+02/17/2015 13:32:39 - User ID : SysAdmin - Error No.   : 001 -- Init,Error Message : Tidak Dapat Koneksi
